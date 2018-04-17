@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="80"
+   height="80"
+   id="svg3597">
+  <defs
+     id="defs3599" />
+  <metadata
+     id="metadata3602">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="80"
+     height="80"
+     x="4.4335939e-06"
+     y="3.7499999e-06"
+     id="rect3585"
+     style="opacity:0;color:#000000;fill:#f44800;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 45,40.5 C 45,42.985281 42.985281,45 40.5,45 38.014719,45 36,42.985281 36,40.5 36,38.014719 38.014719,36 40.5,36 42.985281,36 45,38.014719 45,40.5 z M 40.879687,29.25 c -2.026134,0.09403 0.180131,1.829483 -3.09375,2.939062 -3.741578,1.268092 -2.298789,-2.453951 -5.11875,0.309375 -2.819961,2.763327 0.917941,1.393437 -0.421875,5.104688 -1.339815,3.711251 -3.344759,0.266508 -2.939062,4.190625 0.405696,3.924117 1.669769,0.155862 3.740625,3.515625 2.070856,3.359763 -1.877419,2.777845 1.448437,4.907813 3.325857,2.129967 1.154432,-1.209555 5.076563,-0.73125 3.922131,0.478305 1.011546,3.194654 4.753125,1.926562 3.741579,-1.268091 -0.232461,-1.652298 2.5875,-4.415625 2.819961,-2.763327 3.132059,1.208126 4.471875,-2.503125 1.339816,-3.711251 -1.436491,-0.857133 -1.842187,-4.78125 -0.405697,-3.924117 2.900543,-1.688674 0.829687,-5.048438 -2.070856,-3.359763 -1.567894,0.583093 -4.89375,-1.546875 -3.325856,-2.129967 0.476818,-3.31857 -3.445313,-3.796875 -0.490266,-0.05979 -0.863677,-0.08375 -1.153125,-0.07031 z M 40.5,34.65 c 3.230866,0 5.85,2.619134 5.85,5.85 0,3.230866 -2.619134,5.85 -5.85,5.85 -3.230866,0 -5.85,-2.619134 -5.85,-5.85 0,-3.230866 2.619134,-5.85 5.85,-5.85 z"
+     transform="matrix(2.2222222,0,0,2.2222222,-49.999999,-49.999999)"
+     id="path2988"
+     style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>

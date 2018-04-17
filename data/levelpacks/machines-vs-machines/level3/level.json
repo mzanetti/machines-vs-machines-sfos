@@ -1,0 +1,53 @@
+{
+    "startMoney": 30,
+    "rewardPoints": 3,
+    "board": {
+        "rows": 5,
+        "columns": 10,
+        "fieldsOnPath": [28, 38, 37, 36, 35, 34, 33, 43, 42, 41, 31, 21, 22, 23, 24, 25, 15, 5, 4, 3, 2, 1],
+        "forbiddenFields": [8, 9, 17, 18, 19, 27, 29]
+    },
+    "soundFile": "TheBuilder",
+    "waves": [
+        {
+            "interval": 1500,
+            "enemies": [1,1,1,1,1,1,1,1,1,1]
+        },
+        {
+            "interval": 1500,
+            "enemies": [2,2,2,2,2,2,2,2,2,2]
+        },
+        {
+            "interval": 1400,
+            "enemies": [3,3,3,3,3,3,3,3,3,3]
+        },
+        {
+            "interval": 1400,
+            "enemies": [4,4,4,4,4,4,4,4,4,4]
+        },
+        {
+            "interval": 1200,
+            "enemies": [5,5,5,5,5,5,5,5,5,5]
+        },
+        {
+            "interval": 900,
+            "enemies": [1,1,1,1,1,5,5,5,5,5]
+        },
+        {
+            "interval": 900,
+            "enemies": [4,5,4,5,4,5,4,5,4,5]
+        },
+        {
+            "interval": 800,
+            "enemies": [5,5,5,5,5,5,5,5,1,1]
+        },
+        {
+            "interval": 800,
+            "enemies": [3,3,3,3,3,5,5,5,5,5]
+        },
+        {
+            "interval": 800,
+            "enemies": [2,2,2,2,2,4,4,4,4,4]
+        }
+    ]
+}

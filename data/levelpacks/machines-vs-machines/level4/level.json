@@ -1,0 +1,53 @@
+{
+    "startMoney": 40,
+    "rewardPoints": 3,
+    "board": {
+        "rows": 5,
+        "columns": 10,
+        "fieldsOnPath": [21, 31, 32, 33, 34, 35, 36, 37, 38, 28, 27, 26, 25, 24, 14, 4, 5, 6, 7, 8],
+        "forbiddenFields": [0, 1, 2, 10, 11, 12, 20, 22, 23]
+    },
+    "soundFile": "ComicHero",
+    "waves": [
+        {
+            "interval": 1500,
+            "enemies": [2,2,2,2,2,2,2,2,2,2]
+        },
+        {
+            "interval": 1400,
+            "enemies": [2,3,2,3,2,3,2,3,2,3]
+        },
+        {
+            "interval": 1300,
+            "enemies": [3,3,3,3,3,3,3,3,3,3]
+        },
+        {
+            "interval": 1200,
+            "enemies": [3,4,3,4,3,4,3,4,3,4]
+        },
+        {
+            "interval": 1100,
+            "enemies": [3,3,3,3,4,4,4,4,4,4]
+        },
+        {
+            "interval": 1000,
+            "enemies": [4,4,4,4,4,4,4,4,4,4]
+        },
+        {
+            "interval": 700,
+            "enemies": [4,5,4,5,4,5,4,5,4,5]
+        },
+        {
+            "interval": 700,
+            "enemies": [5,5,5,5,5,5,5,5,5,5]
+        },
+        {
+            "interval": 600,
+            "enemies": [5,6,5,6,5,6,5,6,5,6]
+        },
+        {
+            "interval": 600,
+            "enemies": [6,6,6,6,6,6,6,6,6,6]
+        }
+    ]
+}

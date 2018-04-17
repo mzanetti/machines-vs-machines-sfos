@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg12382"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tower-2-shot.svg"
+   inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower_2/tower-2-lv-0-sprite.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs12384">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter15581-5"
+       x="-0.1377551"
+       width="1.2755102"
+       y="-0.25961539"
+       height="1.5192308">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0267857"
+         id="feGaussianBlur15583-7" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="58.418289"
+     inkscape:cy="-73.816204"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true" />
+  <metadata
+     id="metadata12387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:none"
+     transform="translate(-972,373.99994)">
+    <rect
+       style="color:#000000;fill:#d33781;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect28184"
+       width="128"
+       height="128"
+       x="972"
+       y="-373.99994"
+       inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower_2/tower-2-shot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-745.1429,264.49496)"
+     style="display:inline">
+    <path
+       style="opacity:0.2;color:#000000;fill:#c95ee7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06251514px;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter15581-5);enable-background:accumulate"
+       d="m 795.38518,19.882118 c 0,14.99059 -18.62761,37.05005 -47.62256,37.05005 -28.99495,0 -57.37745,-29.13053 -57.37745,-44.12112 0,-14.9905803 25.82122,-10.5830203 54.81617,-10.5830203 28.99495,0 50.18384,2.66351 50.18384,17.6540903 z"
+       id="path34086"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss"
+       transform="matrix(0,-0.81240546,1.1937722,0,779.845,403.7433)" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e298f3;fill-opacity:1;stroke:#b84ce4;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 815.10647,-220.31137 -1.1072,0.38605 -9.01212,3.21706 -1.95691,0.69489 1.87967,0.82357 4.68629,2.08465 -0.36048,3.42296 -9.99057,-5.79072 -2.24016,-1.31256 1.08146,2.36776 4.22282,9.13646 -8.47139,-2.41923 -2.3689,-0.66915 1.46769,1.95597 c 0,0 1.32527,1.76793 2.96112,3.55164 0.81793,0.89185 1.72552,1.79668 2.60064,2.49644 0.50983,0.40766 1.00371,0.71897 1.51919,0.95225 -0.79417,0.63846 -2.09941,1.54639 -3.50185,2.44497 -2.81878,1.80603 -5.948,3.62884 -5.948,3.62884 l -2.65214,1.51845 3.06412,0 10.55705,0 4.14557,8.57026 1.23595,2.54791 0.30899,-2.80528 1.21019,-10.47475 7.77617,12.55941 1.51919,-0.54047 -1.08146,-8.72467 13.98165,-0.54047 1.82817,-0.0772 -1.26169,-1.31257 -9.01212,-9.26513 6.59172,-5.25025 1.44194,-1.15814 -1.82817,-0.30884 -13.28643,-2.21334 0,-8.31289 0,-1.18388 z m -1.64793,2.34202 0,7.84964 0,0.69488 0.69522,0.12868 12.17923,2.00745 -5.87075,4.68404 -0.69522,0.56621 0.61797,0.64341 8.34264,8.59599 -13.02894,0.48899 -0.87546,0.0515 0.103,0.87504 0.72097,5.9194 -7.08095,-11.40127 -1.23595,-2.00745 -0.28324,2.34203 -1.13295,10.01149 -3.11561,-6.48559 -0.23174,-0.46326 -0.51498,0 -8.13665,0 c 1.18019,-0.70323 1.81943,-1.04894 3.4761,-2.11039 1.43094,-0.91683 2.78154,-1.84775 3.68209,-2.57365 0.45028,-0.36296 0.77748,-0.60887 1.02996,-1.02946 0.0631,-0.10516 0.14763,-0.22374 0.18024,-0.41179 0.0326,-0.18804 -8.3e-4,-0.46953 -0.15449,-0.69488 -0.30664,-0.45071 -0.69977,-0.46326 -0.95271,-0.46326 -0.17066,0 -0.88441,-0.29025 -1.64793,-0.90078 -0.76353,-0.61052 -1.63609,-1.46108 -2.4204,-2.31628 -0.64924,-0.70792 -0.70182,-0.82666 -1.18445,-1.41551 l 7.64742,2.1876 1.72518,0.489 -0.74672,-1.6214 -3.88808,-8.44157 8.83187,5.12156 1.1072,0.64341 0.12875,-1.26109 0.59222,-5.25024 0.0515,-0.59194 -0.54073,-0.25737 -3.3731,-1.49271 5.99949,-2.1104 z"
+       id="path34100"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

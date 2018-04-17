@@ -1,0 +1,814 @@
+[
+  {
+    "configs": [
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-1-shot", 
+        "shotCenter": {
+          "y": 110, 
+          "x": 128
+        }, 
+        "image": "tower-1-lv-0", 
+        "spriteCount": 8, 
+        "shotSound": "tower-1-shot", 
+        "damage": 2, 
+        "slowdown": 0, 
+        "cost": 10, 
+        "radius": 1, 
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "shotStartDistance": 90, 
+        "destroyReward": 5
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-1-shot", 
+        "shotCenter": {
+          "y": 110, 
+          "x": 128
+        }, 
+        "image": "tower-1-lv-1", 
+        "spriteCount": 8, 
+        "shotSound": "tower-1-shot", 
+        "shotDuration": 200, 
+        "damage": 3, 
+        "cost": 5, 
+        "radius": 1, 
+        "imageBaseSize": 256, 
+        "destroyReward": 7, 
+        "slowdown": 0, 
+        "shotStartDistance": 90, 
+        "unlockPoints": 20
+      }, 
+      {
+        "shotRecovery": 1400, 
+        "shotImage": "tower-1-shot", 
+        "shotCenter": {
+          "y": 110, 
+          "x": 128
+        }, 
+        "image": "tower-1-lv-2", 
+        "spriteCount": 8, 
+        "shotSound": "tower-1-shot", 
+        "damage": 3, 
+        "slowdown": 0, 
+        "cost": 8, 
+        "radius": 1.2, 
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "destroyReward": 11,
+        "shotStartDistance": 90, 
+        "unlockPoints": 40
+      }, 
+      {
+        "shotRecovery": 1300, 
+        "shotImage": "tower-1-shot", 
+        "shotCenter": {
+          "y": 110, 
+          "x": 128
+        }, 
+        "image": "tower-1-lv-3", 
+        "spriteCount": 8, 
+        "shotSound": "tower-1-shot", 
+        "damage": 4, 
+        "slowdown": 0, 
+        "cost": 10, 
+        "radius": 1.4, 
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "destroyReward": 16,
+        "shotStartDistance": 90, 
+        "unlockPoints": 800
+      }
+    ], 
+    "id": 1, 
+    "name": "Cannon"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-2-shot", 
+        "shotCenter": {
+          "y": 55, 
+          "x": 128
+        }, 
+        "image": "tower-2-lv-0", 
+        "spriteCount": 5, 
+        "shotSound": "tower-2-shot",
+        "shotDuration": 200, 
+        "damage": 2, 
+        "cost": 12,
+        "radius": 1, 
+        "imageBaseSize": 256, 
+        "destroyReward": 6,
+        "slowdown": 1, 
+        "shotStartDistance": 0
+      }, 
+      {
+        "shotRecovery": 1400, 
+        "shotImage": "tower-2-shot", 
+        "shotCenter": {
+          "y": 55, 
+          "x": 128
+        }, 
+        "image": "tower-2-lv-1", 
+        "spriteCount": 5, 
+        "shotSound": "tower-2-shot",
+        "shotDuration": 200, 
+        "damage": 3, 
+        "cost": 6,
+        "radius": 1.1, 
+        "imageBaseSize": 256, 
+        "destroyReward": 9,
+        "slowdown": 2, 
+        "shotStartDistance": 0, 
+        "unlockPoints": 25
+      }, 
+      {
+        "shotRecovery": 1300, 
+        "shotImage": "tower-2-shot", 
+        "shotCenter": {
+          "y": 55, 
+          "x": 128
+        }, 
+        "image": "tower-2-lv-2", 
+        "spriteCount": 5, 
+        "shotSound": "tower-2-shot",
+        "shotDuration": 200, 
+        "damage": 4, 
+        "cost": 12, 
+        "radius": 1.2, 
+        "imageBaseSize": 256, 
+        "destroyReward": 15,
+        "slowdown": 3, 
+        "shotStartDistance": 0, 
+        "unlockPoints": 30
+      }, 
+      {
+        "shotRecovery": 1200, 
+        "shotImage": "tower-2-shot", 
+        "shotCenter": {
+          "y": 55, 
+          "x": 128
+        }, 
+        "image": "tower-2-lv-3", 
+        "spriteCount": 5, 
+        "shotSound": "tower-2-shot",
+        "shotDuration": 200, 
+        "damage": 5, 
+        "cost": 18,
+        "radius": 1.4,
+        "imageBaseSize": 256, 
+        "destroyReward": 24,
+        "slowdown": 3,
+        "shotStartDistance": 0, 
+        "unlockPoints": 40
+      }
+    ], 
+    "id": 2, 
+    "name": "Electro"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 800,
+        "locked": true, 
+        "shotImage": "tower-4-shot", 
+        "shotCenter": {
+          "y": 54, 
+          "x": 128
+        }, 
+        "image": "tower-4-lv-0", 
+        "spriteCount": 5, 
+        "shotSound": "tower-4-shot",
+        "shotDuration": 200, 
+        "damage": 3, 
+        "shotType": "charge", 
+        "cost": 15,
+        "radius": 1, 
+        "imageBaseSize": 256, 
+        "animationDuration": 600, 
+        "destroyReward": 7,
+        "slowdown": 0, 
+        "shotStartDistance": 0, 
+        "unlockPoints": 6
+      }, 
+      {
+        "shotRecovery": 700,
+        "shotImage": "tower-4-shot", 
+        "shotCenter": {
+          "y": 54, 
+          "x": 128
+        }, 
+        "image": "tower-4-lv-1", 
+        "spriteCount": 5, 
+        "shotSound": "tower-4-shot",
+        "shotDuration": 200, 
+        "damage": 4, 
+        "shotType": "charge",
+        "cost": 8,
+        "radius": 1.1,
+        "imageBaseSize": 256, 
+        "animationDuration": 600,
+        "destroyReward": 23,
+        "slowdown": 0,
+        "shotStartDistance": 0
+      },
+      {
+        "shotRecovery": 600,
+        "shotImage": "tower-4-shot", 
+        "shotCenter": {
+          "y": 54, 
+          "x": 128
+        }, 
+        "image": "tower-4-lv-2", 
+        "spriteCount": 5, 
+        "shotSound": "tower-4-shot",
+        "damage": 5,
+        "shotType": "charge",
+        "slowdown": 0, 
+        "cost": 15,
+        "destroyReward": 19,
+        "radius": 1.2,
+        "imageBaseSize": 256, 
+        "animationDuration": 600,
+        "shotDuration": 200, 
+        "shotStartDistance": 0 
+      }, 
+      {
+        "shotRecovery": 500,
+        "shotImage": "tower-4-shot", 
+        "shotCenter": {
+          "y": 54, 
+          "x": 128
+        }, 
+        "image": "tower-4-lv-3", 
+        "spriteCount": 5, 
+        "shotSound": "tower-4-shot",
+        "damage": 6,
+        "shotType": "charge",
+        "slowdown": 0, 
+        "cost": 22,
+        "destroyReward": 30,
+        "radius": 1.3,
+        "imageBaseSize": 256, 
+        "animationDuration": 600,
+        "shotDuration": 200, 
+        "shotStartDistance": 0
+      }
+    ], 
+    "id": 3, 
+    "name": "Lighthouse"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 840,
+        "locked": true, 
+        "shotImage": "tower-5-shot", 
+        "shotCenter": {
+          "y": 104, 
+          "x": 128
+        }, 
+        "image": "tower-5-lv-0", 
+        "spriteCount": 4, 
+        "shotSound": "tower-5-shot",
+        "shotCount": 0, 
+        "shotDuration": 200,
+        "damage": 2,
+        "shotType": "radial", 
+        "cost": 22, 
+        "destroyReward": 11,
+        "radius": 0.8,
+        "imageBaseSize": 256, 
+        "animationDuration": 960, 
+        "startFrame": 1, 
+        "slowdown": 0, 
+        "shotStartDistance": 80, 
+        "unlockPoints": 6
+      }, 
+      {
+        "shotRecovery": 640,
+        "shotImage": "tower-5-shot", 
+        "shotCenter": {
+          "y": 104, 
+          "x": 128
+        }, 
+        "image": "tower-5-lv-1", 
+        "spriteCount": 4, 
+        "shotSound": "tower-5-shot",
+        "shotCount": 0, 
+        "shotDuration": 200, 
+        "damage": 2,
+        "shotType": "radial", 
+        "cost": 11,
+        "destroyReward": 16,
+        "radius": 1,
+        "imageBaseSize": 256, 
+        "animationDuration": 960,
+        "startFrame": 1,
+        "slowdown": 0,
+        "shotStartDistance": 80
+      }, 
+      {
+        "shotRecovery": 440,
+        "shotImage": "tower-5-shot", 
+        "shotCenter": {
+          "y": 104, 
+          "x": 128
+        }, 
+        "image": "tower-5-lv-2", 
+        "spriteCount": 4, 
+        "shotSound": "tower-5-shot",
+        "shotCount": 0, 
+        "damage": 3,
+        "animationDuration": 960,
+        "startFrame": 1,
+        "slowdown": 0,
+        "shotType": "radial", 
+        "cost": 22,
+        "destroyReward": 27,
+        "radius": 1.2,
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "shotStartDistance": 80
+      }, 
+      {
+        "shotRecovery": 340,
+        "shotImage": "tower-5-shot", 
+        "shotCenter": {
+          "y": 104, 
+          "x": 128
+        }, 
+        "image": "tower-5-lv-3", 
+        "spriteCount": 4, 
+        "shotCount": 0, 
+        "shotSound": "tower-5-shot",
+        "damage": 3,
+        "animationDuration": 960,
+        "startFrame": 1,
+        "slowdown": 0,
+        "shotType": "radial", 
+        "cost": 33,
+        "destroyReward": 44,
+        "radius": 1.4,
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "shotStartDistance": 80
+      }
+    ], 
+    "id": 4, 
+    "name": "Boom Box"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 800,
+        "locked": true, 
+        "shotImage": "tower-6-shot", 
+        "shotCenter": {
+          "y": 100, 
+          "x": 128
+        }, 
+        "image": "tower-6-lv-0", 
+        "spriteCount": 6, 
+        "shotDuration": 2000, 
+        "shotSound": "tower-6-shot",
+        "damage": 3,
+        "cost": 30,
+        "destroyReward": 15,
+        "radius": 1,
+        "imageBaseSize": 256, 
+        "slowdown": 1,
+        "shotStartDistance": 0, 
+        "unlockPoints": 9
+      }, 
+      {
+        "shotRecovery": 800,
+        "shotImage": "tower-6-shot", 
+        "shotCenter": {
+          "y": 100, 
+          "x": 128
+        }, 
+        "image": "tower-6-lv-1", 
+        "spriteCount": 6, 
+        "shotDuration": 2000, 
+        "shotSound": "tower-6-shot",
+        "damage": 3,
+        "cost": 15,
+        "destroyReward": 22,
+        "radius": 1.2,
+        "imageBaseSize": 256, 
+        "slowdown": 2,
+        "shotStartDistance": 0
+      }, 
+      {
+        "shotRecovery": 700,
+        "shotImage": "tower-6-shot", 
+        "shotCenter": {
+          "y": 100, 
+          "x": 128
+        }, 
+        "image": "tower-6-lv-2", 
+        "spriteCount": 6, 
+        "damage": 4,
+        "slowdown": 3,
+        "cost": 30,
+        "destroyReward": 37,
+        "radius": 1.4,
+        "imageBaseSize": 256, 
+        "shotDuration": 2000, 
+        "shotStartDistance": 0, 
+        "shotSound": "tower-6-shot"
+      }, 
+      {
+        "shotRecovery": 700,
+        "shotImage": "tower-6-shot", 
+        "shotCenter": {
+          "y": 100, 
+          "x": 128
+        }, 
+        "image": "tower-6-lv-3", 
+        "spriteCount": 6, 
+        "damage": 4,
+        "slowdown": 4,
+        "cost": 45,
+        "destroyReward": 60,
+        "radius": 1.6,
+        "imageBaseSize": 256, 
+        "shotDuration": 2000, 
+        "shotStartDistance": 0, 
+        "shotSound": "tower-6-shot"
+      }
+    ], 
+    "id": 5, 
+    "name": "Radioactive Cloud"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 500,
+        "locked": true, 
+        "shotImage": "tower-7-shot", 
+        "shotCenter": {
+          "y": 180, 
+          "x": 150
+        }, 
+        "image": "tower-7-lv-0", 
+        "spriteCount": 8, 
+        "shotCount": 0, 
+        "shotDuration": 200, 
+        "damage": 3,
+        "shotType": "radial", 
+        "cost": 40,
+        "destroyReward": 20,
+        "radius": 0.8,
+        "imageBaseSize": 256, 
+        "startFrame": 2, 
+        "slowdown": 0, 
+        "shotStartDistance": 120, 
+        "shotSound": "tower-7-shot",
+        "unlockPoints": 11
+      }, 
+      {
+        "shotRecovery": 466,
+        "shotImage": "tower-7-shot", 
+        "shotCenter": {
+          "y": 180, 
+          "x": 150
+        }, 
+        "image": "tower-7-lv-1", 
+        "spriteCount": 8, 
+        "shotCount": 0, 
+        "shotDuration": 200, 
+        "damage": 3,
+        "shotType": "radial", 
+        "cost": 20,
+        "destroyReward": 30,
+        "radius": 1.0,
+        "imageBaseSize": 256, 
+        "startFrame": 2,
+        "slowdown": 0,
+        "shotSound": "tower-7-shot",
+        "shotStartDistance": 120
+      }, 
+      {
+        "shotRecovery": 433,
+        "shotImage": "tower-7-shot", 
+        "shotCenter": {
+          "y": 180, 
+          "x": 150
+        }, 
+        "image": "tower-7-lv-2", 
+        "spriteCount": 8, 
+        "shotCount": 0, 
+        "damage": 4,
+        "slowdown": 0, 
+        "shotType": "radial", 
+        "cost": 40,
+        "destroyReward": 50,
+        "startFrame": 2,
+        "radius": 1.2,
+        "imageBaseSize": 256, 
+        "shotSound": "tower-7-shot",
+        "shotDuration": 200, 
+        "shotStartDistance": 120
+      }, 
+      {
+        "shotRecovery": 400,
+        "shotImage": "tower-7-shot", 
+        "shotCenter": {
+          "y": 180, 
+          "x": 150
+        }, 
+        "image": "tower-7-lv-3", 
+        "spriteCount": 8, 
+        "shotCount": 0, 
+        "damage": 4,
+        "slowdown": 0, 
+        "shotType": "radial", 
+        "cost": 60,
+        "destroyReward": 80,
+        "startFrame": 2,
+        "radius": 1.4,
+        "imageBaseSize": 256, 
+        "shotDuration": 200, 
+        "shotStartDistance": 120, 
+        "shotSound": "tower-7-shot"
+      }
+    ], 
+    "id": 6, 
+    "name": "Hammersmith"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 600, 
+        "locked": true, 
+        "shotImage": "tower-8-shot-0", 
+        "shotCenter": {
+          "y": 62, 
+          "x": 162
+        }, 
+        "image": "tower-8-lv-0", 
+        "spriteCount": 6, 
+        "shotSound": "tower-8-shot", 
+        "shotDuration": 600, 
+        "damage": 4,
+        "shotType": "beam", 
+        "cost": 50,
+        "destroyReward": 25,
+        "radius": 1, 
+        "imageBaseSize": 256, 
+        "slowdown": 0, 
+        "shotStartDistance": 8, 
+        "unlockPoints": 13
+      }, 
+      {
+        "shotRecovery": 600, 
+        "shotImage": "tower-8-shot-1", 
+        "shotCenter": {
+          "y": 62, 
+          "x": 162
+        }, 
+        "image": "tower-8-lv-1", 
+        "spriteCount": 6, 
+        "shotSound": "tower-8-shot", 
+        "shotDuration": 600, 
+        "damage": 6,
+        "shotType": "beam", 
+        "cost": 25,
+        "destroyReward": 37,
+        "radius": 1.1,
+        "imageBaseSize": 256, 
+        "slowdown": 0, 
+        "shotStartDistance": 8
+      },
+      {
+        "shotRecovery": 600, 
+        "shotImage": "tower-8-shot-2", 
+        "shotCenter": {
+          "y": 62, 
+          "x": 162
+        }, 
+        "image": "tower-8-lv-2", 
+        "spriteCount": 6, 
+        "shotSound": "tower-8-shot", 
+        "damage": 7,
+        "slowdown": 0, 
+        "shotType": "beam", 
+        "cost": 50,
+        "destroyReward": 62,
+        "radius": 1.2,
+        "imageBaseSize": 256, 
+        "shotDuration": 600, 
+        "shotStartDistance": 8
+      }, 
+      {
+        "shotRecovery": 600, 
+        "shotImage": "tower-8-shot-3", 
+        "shotCenter": {
+          "y": 62, 
+          "x": 162
+        }, 
+        "image": "tower-8-lv-3", 
+        "spriteCount": 6, 
+        "shotSound": "tower-8-shot", 
+        "damage": 8,
+        "slowdown": 0, 
+        "shotType": "beam", 
+        "cost": 75,
+        "destroyReward": 100,
+        "radius": 1.3,
+        "imageBaseSize": 256, 
+        "shotDuration": 600, 
+        "shotStartDistance": 8
+      }
+    ], 
+    "id": 7, 
+    "name": "Laserhouse"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 4000,
+        "locked": true, 
+        "shotImage": "tower-9-shot", 
+        "shotCenter": {
+          "y": 120, 
+          "x": 128
+        }, 
+        "image": "tower-9-lv-0", 
+        "spriteCount": 6, 
+        "shotDuration": 1500, 
+        "damage": 20,
+        "cost": 65,
+        "destroyReward": 33,
+        "radius": 2,
+        "imageBaseSize": 256, 
+        "animationDuration": 1200, 
+        "slowdown": 0, 
+        "shotStartDistance": 70, 
+        "shotSound": "tower-9-shot", 
+        "unlockPoints": 15
+      }, 
+      {
+        "shotRecovery": 3800,
+        "shotImage": "tower-9-shot", 
+        "shotCenter": {
+          "y": 120, 
+          "x": 128
+        }, 
+        "image": "tower-9-lv-1", 
+        "spriteCount": 6, 
+        "shotDuration": 1400,
+        "damage": 30,
+        "cost": 33,
+        "destroyReward": 45,
+        "radius": 2.2,
+        "imageBaseSize": 256, 
+        "slowdown": 0, 
+        "shotSound": "tower-9-shot", 
+        "shotStartDistance": 70
+      }, 
+      {
+        "shotRecovery": 3600,
+        "shotImage": "tower-9-shot", 
+        "shotCenter": {
+          "y": 120, 
+          "x": 128
+        }, 
+        "image": "tower-9-lv-2", 
+        "spriteCount": 6, 
+        "shotDuration": 1300,
+        "damage": 40,
+        "cost": 65,
+        "destroyReward": 75,
+        "radius": 2.4,
+        "imageBaseSize": 256, 
+        "shotSound": "tower-9-shot", 
+        "slowdown": 0, 
+        "shotStartDistance": 70
+      }, 
+      {
+        "shotRecovery": 3400,
+        "shotImage": "tower-9-shot", 
+        "shotCenter": {
+          "y": 120, 
+          "x": 128
+        }, 
+        "image": "tower-9-lv-3", 
+        "spriteCount": 6, 
+        "shotDuration": 1200, 
+        "damage": 50,
+        "cost": 98,
+        "destroyReward": 124,
+        "radius": 2.6,
+        "imageBaseSize": 256, 
+        "shotSound": "tower-9-shot", 
+        "slowdown": 0, 
+        "shotStartDistance": 70
+      }
+    ], 
+    "id": 8, 
+    "name": "Rocket Base"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 1000, 
+        "locked": true, 
+        "imageBaseSize": 256, 
+        "shotImage": "tower-10-shot", 
+        "shotCenter": {
+          "y": 75, 
+          "x": 128
+        }, 
+        "image": "tower-10-lv-0", 
+        "spriteCount": 5, 
+        "shotDuration": 400, 
+        "damage": 8,
+        "shotType": "animated", 
+        "cost": 80,
+        "destroyReward": 40,
+        "radius": 1.5,
+        "unlockPoints": 18,
+        "animationDuration": 600, 
+        "shotSound": "tower-10-shot", 
+        "slowdown": 2,
+        "shotStartDistance": 0, 
+        "shotLifetime": 1400
+      }, 
+      {
+        "shotRecovery": 1000, 
+        "shotImage": "tower-10-shot", 
+        "shotCenter": {
+          "y": 75, 
+          "x": 128
+        }, 
+        "image": "tower-10-lv-1", 
+        "spriteCount": 5, 
+        "shotDuration": 1000, 
+        "damage": 12,
+        "shotType": "follow", 
+        "cost": 40,
+        "destroyReward": 60,
+        "radius": 1.7,
+        "imageBaseSize": 256,
+        "animationDuration": 600,
+        "shotSound": "tower-10-shot", 
+        "slowdown": 4,
+        "shotStartDistance": 0,
+        "shotLifetime": 1400
+      },
+      {
+        "shotRecovery": 1000, 
+        "shotImage": "tower-10-shot", 
+        "shotCenter": {
+          "y": 75, 
+          "x": 128
+        }, 
+        "image": "tower-10-lv-2", 
+        "spriteCount": 5, 
+        "shotDuration": 1000, 
+        "damage": 18,
+        "shotType": "follow", 
+        "cost": 80,
+        "destroyReward": 100,
+        "radius": 2,
+        "animationDuration": 600,
+        "shotSound": "tower-10-shot", 
+        "imageBaseSize": 256, 
+        "slowdown": 6,
+        "shotStartDistance": 0,
+        "shotLifetime": 1400
+      }, 
+      {
+        "shotRecovery": 1000, 
+        "shotImage": "tower-10-shot", 
+        "shotCenter": {
+          "y": 75, 
+          "x": 128
+        }, 
+        "image": "tower-10-lv-3", 
+        "spriteCount": 5, 
+        "shotDuration": 1000, 
+        "damage": 24,
+        "shotType": "follow", 
+        "cost": 120,
+        "destroyReward": 160,
+        "radius": 2.5,
+        "animationDuration": 600,
+        "shotSound": "tower-10-shot", 
+        "imageBaseSize": 256, 
+        "slowdown": 8,
+        "shotStartDistance": 0,
+        "shotLifetime": 1400
+      }
+    ], 
+    "id": 9, 
+    "name": "Plasma Sphere"
+  }
+]
+

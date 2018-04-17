@@ -1,0 +1,262 @@
+[
+  {
+    "description": "B", 
+    "imageBaseSize": 256, 
+    "energy": 5, 
+    "spriteCount": 6, 
+    "image": "B", 
+    "reward": 1, 
+    "speed": 2, 
+    "id": 1
+  }, 
+  {
+    "description": "C", 
+    "imageBaseSize": 256, 
+    "energy": 5, 
+    "spriteCount": 6, 
+    "image": "C", 
+    "reward": 1, 
+    "speed": 4, 
+    "id": 2
+  }, 
+  {
+    "description": "D", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "D", 
+    "reward": 1, 
+    "speed": 2, 
+    "id": 3
+  }, 
+  {
+    "description": "F", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "F", 
+    "reward": 2, 
+    "speed": 4, 
+    "id": 4
+  }, 
+  {
+    "description": "G", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "G", 
+    "reward": 1, 
+    "speed": 4, 
+    "id": 5
+  }, 
+  {
+    "description": "H", 
+    "imageBaseSize": 256, 
+    "energy": 5, 
+    "spriteCount": 6, 
+    "image": "H", 
+    "reward": 2, 
+    "speed": 2, 
+    "id": 6
+  }, 
+  {
+    "description": "J", 
+    "imageBaseSize": 256, 
+    "energy": 15, 
+    "spriteCount": 6, 
+    "image": "J", 
+    "reward": 2, 
+    "speed": 2, 
+    "id": 7
+  }, 
+  {
+    "description": "K", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "K", 
+    "reward": 2, 
+    "speed": 6, 
+    "id": 8
+  }, 
+  {
+    "description": "L", 
+    "imageBaseSize": 256, 
+    "energy": 15, 
+    "spriteCount": 6, 
+    "image": "L", 
+    "reward": 2, 
+    "speed": 6, 
+    "id": 9
+  }, 
+  {
+    "description": "M", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "M", 
+    "reward": 2, 
+    "speed": 8, 
+    "id": 10
+  }, 
+  {
+    "description": "N", 
+    "imageBaseSize": 256, 
+    "energy": 20, 
+    "spriteCount": 6, 
+    "image": "N", 
+    "reward": 2, 
+    "speed": 4, 
+    "id": 11
+  }, 
+  {
+    "description": "P", 
+    "imageBaseSize": 256, 
+    "energy": 15, 
+    "spriteCount": 6, 
+    "image": "P", 
+    "reward": 3, 
+    "speed": 8, 
+    "id": 12
+  }, 
+  {
+    "description": "Q", 
+    "imageBaseSize": 256, 
+    "energy": 10, 
+    "spriteCount": 6, 
+    "image": "Q", 
+    "reward": 2, 
+    "speed": 20, 
+    "id": 13
+  }, 
+  {
+    "description": "R", 
+    "imageBaseSize": 256, 
+    "energy": 20, 
+    "spriteCount": 6, 
+    "image": "R", 
+    "reward": 2, 
+    "speed": 15, 
+    "id": 14
+  }, 
+  {
+    "description": "S", 
+    "imageBaseSize": 256, 
+    "energy": 20, 
+    "spriteCount": 6, 
+    "image": "S", 
+    "reward": 2, 
+    "speed": 18, 
+    "id": 15
+  }, 
+  {
+    "description": "T", 
+    "imageBaseSize": 256, 
+    "energy": 30, 
+    "spriteCount": 6, 
+    "image": "T", 
+    "reward": 2, 
+    "speed": 40, 
+    "id": 16
+  }, 
+  {
+    "description": "V", 
+    "imageBaseSize": 256, 
+    "energy": 20, 
+    "spriteCount": 6, 
+    "image": "V", 
+    "reward": 2, 
+    "speed": 20, 
+    "id": 17
+  }, 
+  {
+    "description": "W", 
+    "imageBaseSize": 256, 
+    "energy": 15, 
+    "spriteCount": 6, 
+    "image": "W", 
+    "reward": 2, 
+    "speed": 30, 
+    "id": 18
+  }, 
+  {
+    "description": "X", 
+    "imageBaseSize": 256, 
+    "energy": 30, 
+    "spriteCount": 6, 
+    "image": "X", 
+    "reward": 2, 
+    "speed": 30, 
+    "id": 19
+  }, 
+  {
+    "description": "Y", 
+    "imageBaseSize": 256, 
+    "energy": 30, 
+    "spriteCount": 6, 
+    "image": "Y", 
+    "reward": 3, 
+    "speed": 40, 
+    "id": 20
+  }, 
+  {
+    "description": "Z", 
+    "imageBaseSize": 256, 
+    "energy": 40, 
+    "spriteCount": 6, 
+    "image": "Z", 
+    "reward": 3, 
+    "speed": 20, 
+    "id": 21
+  }, 
+  {
+    "description": "Pi", 
+    "imageBaseSize": 256, 
+    "energy": 150, 
+    "spriteCount": 6, 
+    "image": "pi", 
+    "reward": 12, 
+    "speed": 4, 
+    "id": 22
+  }, 
+  {
+    "description": "Tilda", 
+    "imageBaseSize": 256, 
+    "energy": 20, 
+    "spriteCount": 6, 
+    "image": "tilda", 
+    "reward": 12, 
+    "speed": 100, 
+    "id": 23
+  }, 
+  {
+    "description": "And", 
+    "imageBaseSize": 256, 
+    "energy": 100, 
+    "spriteCount": 6, 
+    "image": "and", 
+    "reward": 10, 
+    "speed": 50, 
+    "id": 24
+  }, 
+  {
+    "description": "Dollar", 
+    "imageBaseSize": 256, 
+    "energy": 100, 
+    "spriteCount": 6, 
+    "image": "dollar", 
+    "reward": 10, 
+    "speed": 80, 
+    "id": 25
+  }, 
+  {
+    "description": "Forked", 
+    "imageBaseSize": 256, 
+    "energy": 1000, 
+    "spriteCount": 6, 
+    "image": "forked", 
+    "reward": 0, 
+    "speed": 50, 
+    "id": 26
+  }
+]

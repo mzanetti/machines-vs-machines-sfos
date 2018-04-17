@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="60"
+   height="60"
+   id="svg6144">
+  <defs
+     id="defs6146" />
+  <metadata
+     id="metadata6149">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3049">
+    <rect
+       width="60"
+       height="60"
+       x="0"
+       y="0"
+       id="rect6906"
+       style="opacity:0;color:#000000;fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       id="g3036">
+      <rect
+         width="48"
+         height="36"
+         rx="2.9999974"
+         ry="2.9999974"
+         x="6.000001"
+         y="12.00001"
+         id="rect11020"
+         style="color:#000000;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="46"
+         height="34"
+         rx="1.9999974"
+         ry="1.9999974"
+         x="7.000001"
+         y="13"
+         id="rect6099"
+         style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="10.000001"
+         y="16.00001"
+         id="rect11034"
+         style="color:#000000;fill:#8f8f8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="25.000002"
+         y="16.00001"
+         id="rect11040"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="40"
+         y="16.00001"
+         id="rect11042"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="10.000001"
+         y="31.00001"
+         id="rect11044"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="25.000002"
+         y="31.00001"
+         id="rect11046"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         width="10"
+         height="10"
+         rx="2"
+         ry="2"
+         x="40"
+         y="31.00001"
+         id="rect11048"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 30.99999,44 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
+         id="path6181"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 35.99999,44 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
+         id="path6691"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 25.99999,44 a 1,1 0 0 1 -2,0 1,1 0 1 1 2,0 z"
+         id="path6693"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

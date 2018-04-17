@@ -1,0 +1,53 @@
+{
+    "startMoney": 50,
+    "rewardPoints": 3,
+    "board": {
+        "rows": 5,
+        "columns": 10,
+        "fieldsOnPath": [27, 37, 36, 35, 25, 15, 14, 13, 12, 11, 21, 31, 41],
+        "forbiddenFields": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 40, 49]
+    },
+    "soundFile": "FluffingADuck",
+    "waves": [
+        {
+            "interval": 1500,
+            "enemies": [1,1,1,1,1,1,1,1,1,1]
+        },
+        {
+            "interval": 1400,
+            "enemies": [2,2,2,2,2,2,2,2,2,2]
+        },
+        {
+            "interval": 1200,
+            "enemies": [3,3,3,3,3,3,3,3,3,3]
+        },
+        {
+            "interval": 1100,
+            "enemies": [4,4,4,4,4,4,4,4,4,4]
+        },
+        {
+            "interval": 1000,
+            "enemies": [4,4,4,4,4,5,5,5,5,5]
+        },
+        {
+            "interval": 900,
+            "enemies": [5,5,5,5,5,5,5,5,5,5]
+        },
+        {
+            "interval": 900,
+            "enemies": [6,6,6,6,6,6,6,6,6,6]
+        },
+        {
+            "interval": 800,
+            "enemies": [7,7,7,7,7,7,7,7,7,7]
+        },
+        {
+            "interval": 800,
+            "enemies": [7,7,7,7,7,8,8,8,8,8]
+        },
+        {
+            "interval": 700,
+            "enemies": [8,8,8,8,8,8,8,8,8,8]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg17305"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tower-7-shot.svg"
+   inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower-7/tower-7.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs17307" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="189.79738"
+     inkscape:cy="-8.6978174"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-grids="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3048"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-6.6796875e-05px"
+       originy="-412px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17310">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="back"
+     transform="translate(1182.8572,113.35211)"
+     style="display:none">
+    <rect
+       style="color:#000000;fill:#aea79f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4284"
+       width="128"
+       height="128"
+       x="-1182.8572"
+       y="-113.35211"
+       inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower-7/tower-7-shot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(1182.8572,113.35211)">
+    <g
+       id="g12006"
+       transform="matrix(1.6971677,0,0,1.6971677,-124.80171,-174.28432)"
+       style="stroke:#333333">
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path11994"
+         d="m 592.5,-104 7.5,-8.92857 7.14285,6.78571 -7.14285,3.92858 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path11996"
+         d="m 591.42857,-97.571427 5.35714,2.857143 -3.92857,4.285714 -2.5,-3.571428 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path11998"
+         d="m 612.14285,-97.92857 -7.85714,3.928572 3.57143,6.071428 7.14286,-5 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path12000"
+         d="m 598.21428,-87.214284 -2.14285,6.071429 6.07142,-1.785715 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path12002"
+         d="m 583.21428,-106.14286 2.14286,9.285719 -6.07143,2.142857 0.35714,-8.214286 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(-1182.8572,170.64789)"
+         inkscape:connector-curvature="0"
+         id="path12004"
+         d="m 585.35714,-90.785713 -2.85714,6.428572 6.42857,0 z"
+         style="fill:#eeeeee;stroke:#333333;stroke-width:0.58921695px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

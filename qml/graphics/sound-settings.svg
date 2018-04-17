@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="80"
+   height="80"
+   id="svg3597">
+  <defs
+     id="defs3599" />
+  <metadata
+     id="metadata3602">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="80"
+     height="80"
+     x="4.4335939e-06"
+     y="3.7499999e-06"
+     id="rect3585"
+     style="opacity:0;color:#000000;fill:#f44800;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <g
+     transform="translate(97.999797,-3.9903146)"
+     id="g3786">
+    <path
+       d="m -70,20 0,28.1875 c -1.225842,-0.242901 -2.593489,-0.245392 -4,0.03125 -4.383723,0.862219 -7.485259,4.145037 -6.9375,7.34375 0.547759,3.198714 4.553777,5.080969 8.9375,4.21875 4.383724,-0.862219 7.485259,-4.145036 6.9375,-7.34375 C -65.19281,51.676534 -65.520437,51.000001 -66,50.40625 L -66,27 c 0,6 11,3 12,12 0,-14 -12,-10 -12,-19 l -4,0 z"
+       id="path2995"
+       style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m -44,28 0,28.1875 c -1.225842,-0.242901 -2.593489,-0.245392 -4,0.03125 -4.383723,0.862219 -7.485259,4.145037 -6.9375,7.34375 0.547759,3.198714 4.553777,5.080969 8.9375,4.21875 4.383724,-0.862219 7.485259,-4.145036 6.9375,-7.34375 C -39.19281,59.676534 -39.520437,59.000001 -40,58.40625 L -40,28 l -4,0 z"
+       id="path3776"
+       style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>

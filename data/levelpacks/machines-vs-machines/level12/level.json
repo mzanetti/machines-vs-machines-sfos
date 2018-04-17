@@ -1,0 +1,53 @@
+{
+    "startMoney": 60,
+    "rewardPoints": 3,
+    "board": {
+        "rows": 5,
+        "columns": 10,
+        "fieldsOnPath": [21, 31, 41, 42, 43, 44, 45, 46, 47, 48, 38, 28, 18, 17, 16, 26, 25, 24, 14],
+        "forbiddenFields": [0, 1, 2, 10, 11, 12, 20, 22]
+    },
+    "soundFile": "HamsterMarch",
+    "waves": [
+        {
+            "interval": 1300,
+            "enemies": [2,3,2,3,4,2,3,2,3,4]
+        },
+        {
+            "interval": 1300,
+            "enemies": [4,5,4,5,4,5,4,5,4,5]
+        },
+        {
+            "interval": 1200,
+            "enemies": [5,5,5,5,10,6,6,6,6,10]
+        },
+        {
+            "interval": 1100,
+            "enemies": [6,6,6,6,10,7,7,7,7,10]
+        },
+        {
+            "interval": 1000,
+            "enemies": [7,7,7,9,9,7,7,7,9,9]
+        },
+        {
+            "interval": 900,
+            "enemies": [8,8,8,8,8,8,8,8,8,8]
+        },
+        {
+            "interval": 900,
+            "enemies": [9,9,9,9,9,9,9,9,9,9]
+        },
+        {
+            "interval": 800,
+            "enemies": [5,5,5,10,9,5,5,5,10,9]
+        },
+        {
+            "interval": 800,
+            "enemies": [8,8,8,8,10,8,8,8,8,10]
+        },
+        {
+            "interval": 800,
+            "enemies": [10,10,10,10,10,10,10,10,10,10]
+        }
+    ]
+}

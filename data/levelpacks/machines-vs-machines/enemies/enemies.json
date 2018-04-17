@@ -1,0 +1,213 @@
+[
+{
+    "id": 1,
+    "description": "Rollo",
+    "speed": 1,
+    "energy": 10,
+    "reward": 1,
+    "image": "rollo",
+    "spriteCount": 8
+},
+{
+    "id": 2,
+    "description": "Boo",
+    "speed": 2,
+    "energy": 12,
+    "reward": 1,
+    "image": "boo",
+    "spriteCount": 8
+},
+{
+    "id": 3,
+    "description": "Boing",
+    "speed": 2,
+    "energy": 16,
+    "reward": 2,
+    "image": "boing",
+    "spriteCount": 6,
+    "animationDuration": 520
+},
+{
+    "id": 4,
+    "description": "Andi",
+    "speed": 3,
+    "energy": 20,
+    "reward": 2,
+    "image": "andi",
+    "spriteCount": 6
+},
+{
+    "id": 5,
+    "description": "Dali",
+    "speed": 3,
+    "energy": 23,
+    "reward": 3,
+    "image": "dali",
+    "spriteCount": 6
+},
+{
+    "id": 6,
+    "description": "Heli",
+    "speed": 6,
+    "energy": 23,
+    "reward": 3,
+    "image": "heli",
+    "spriteCount": 6
+},
+{
+    "id": 7,
+    "description": "Pixi",
+    "speed": 4,
+    "energy": 25,
+    "reward": 4,
+    "image": "pixi",
+    "spriteCount": 10
+},
+{
+    "id": 8,
+    "description": "Cool Rollo",
+    "speed": 5,
+    "energy": 30,
+    "reward": 4,
+    "image": "rollo-blue",
+    "spriteCount": 8
+},
+{
+    "id": 9,
+    "description": "Cool Boo",
+    "speed": 6,
+    "energy": 35,
+    "reward": 5,
+    "image": "boo-blue",
+    "spriteCount": 8
+},
+{
+    "id": 10,
+    "description": "Cool Andi",
+    "speed": 6,
+    "energy": 39,
+    "reward": 5,
+    "image": "andi-blue",
+    "spriteCount": 6
+},
+{
+    "id": 11,
+    "description": "Cool Heli",
+    "speed": 8,
+    "energy": 40,
+    "reward": 6,
+    "image": "heli-blue",
+    "spriteCount": 6
+},
+{
+    "id": 12,
+    "description": "Angry Rollo",
+    "speed": 7,
+    "energy": 48,
+    "reward": 6,
+    "image": "rollo-red",
+    "spriteCount": 8
+},
+{
+    "id": 13,
+    "description": "Angry Boo",
+    "speed": 8,
+    "energy": 50,
+    "reward": 7,
+    "image": "boo-red",
+    "spriteCount": 8
+},
+{
+    "id": 14,
+    "description": "Angry Dali",
+    "speed": 9,
+    "energy": 57,
+    "reward": 7,
+    "image": "dali-red",
+    "spriteCount": 6
+},
+{
+    "id": 15,
+    "description": "Angry Heli",
+    "speed": 11,
+    "energy": 60,
+    "reward": 8,
+    "image": "heli-red",
+    "spriteCount": 6
+},
+{
+    "id": 16,
+    "description": "Rusty Boing",
+    "speed": 10,
+    "energy": 67,
+    "reward": 8,
+    "image": "boing-orange",
+    "spriteCount": 6,
+    "animationDuration": 520
+},
+{
+    "id": 17,
+    "description": "Rusty Andi",
+    "speed": 11,
+    "energy": 73,
+    "reward": 9,
+    "image": "andi-orange",
+    "spriteCount": 6
+},
+{
+    "id": 18,
+    "description": "Special Boing",
+    "speed": 12,
+    "energy": 78,
+    "reward": 9,
+    "image": "boing-aubergine",
+    "spriteCount": 6,
+    "animationDuration": 520
+},
+{
+    "id": 19,
+    "description": "Magic Pixi",
+    "speed": 13,
+    "energy": 80,
+    "reward": 10,
+    "image": "pixi-violet",
+    "spriteCount": 10
+},
+{
+    "id": 20,
+    "description": "Organic Heli",
+    "speed": 16,
+    "energy": 80,
+    "reward": 10,
+    "image": "heli-green",
+    "spriteCount": 6
+},
+{
+    "id": 21,
+    "description": "Organic Pixi",
+    "speed": 14,
+    "energy": 90,
+    "reward": 11,
+    "image": "pixi-green",
+    "spriteCount": 10
+},
+{
+    "id": 22,
+    "description": "Big Boing",
+    "speed": 14,
+    "energy": 110,
+    "reward": 11,
+    "image": "boing-big-green",
+    "spriteCount": 6,
+    "animationDuration": 520
+},
+{
+    "id": 23,
+    "description": "Big Dali",
+    "speed": 15,
+    "energy": 130,
+    "reward": 12,
+    "image": "dali-big",
+    "spriteCount": 6
+}
+]

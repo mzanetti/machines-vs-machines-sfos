@@ -1,0 +1,91 @@
+{
+  "rewardPoints": 3, 
+  "startMoney": 35, 
+  "soundFile": "2", 
+  "board": {
+    "fieldsOnPath": [
+      36, 
+      37, 
+      38, 
+      39, 
+      40, 
+      41, 
+      42, 
+      43, 
+      44, 
+      45, 
+      46, 
+      47
+    ], 
+    "rows": 6, 
+    "columns": 12, 
+    "forbiddenFields": []
+  }, 
+  "waves": [
+    {
+      "interval": 4000, 
+      "enemies": [
+        1, 
+        1, 
+        1, 
+        1, 
+        1
+      ]
+    }, 
+    {
+      "interval": 3000, 
+      "enemies": [
+        1, 
+        1, 
+        1, 
+        1, 
+        1
+      ]
+    }, 
+    {
+      "interval": 3000, 
+      "enemies": [
+        1, 
+        1, 
+        1, 
+        1, 
+        1, 
+        2, 
+        2, 
+        2, 
+        2, 
+        2
+      ]
+    }, 
+    {
+      "interval": 2000, 
+      "enemies": [
+        1, 
+        2, 
+        1, 
+        2, 
+        1, 
+        2, 
+        1, 
+        2, 
+        1, 
+        2
+      ]
+    }, 
+    {
+      "interval": 2000, 
+      "enemies": [
+        1, 
+        1, 
+        2, 
+        2, 
+        1, 
+        1, 
+        2, 
+        2, 
+        1, 
+        1
+      ]
+    }
+  ]
+}

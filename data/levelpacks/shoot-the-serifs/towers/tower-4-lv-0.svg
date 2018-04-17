@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5147"
+   viewBox="0 0 256 256"
+   height="256"
+   width="256">
+  <defs
+     id="defs5149" />
+  <metadata
+     id="metadata5152">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     id="layer4">
+    <path
+       id="circle5770"
+       d="m 128,44 c -46.391919,0 -84,37.608081 -84,84 0,46.39192 37.608081,84 84,84 46.39192,0 84,-37.60808 84,-84 0,-46.391919 -37.60808,-84 -84,-84 z m 0,44.183766 c 21.9899,0 39.81623,17.826334 39.81623,39.816234 0,21.9899 -17.82633,39.81623 -39.81623,39.81623 -21.9899,0 -39.816234,-17.82633 -39.816234,-39.81623 0,-21.9899 17.826334,-39.816234 39.816234,-39.816234 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2babb5;fill-opacity:1;fill-rule:nonzero;stroke:#2babb5;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  </g>
+  <g
+     style="display:none"
+     id="layer3">
+    <circle
+       r="108"
+       cy="924.36218"
+       cx="128"
+       id="path3336"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2babb5;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       transform="translate(0,-796.36216)" />
+  </g>
+  <g
+     style="display:none"
+     id="layer2">
+    <circle
+       r="39.816235"
+       cy="128"
+       cx="128"
+       id="path3336-9"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2babb5;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(0,-796.36216)"
+     id="layer1">
+    <path
+       id="path5145"
+       d="m 128,826.86217 c -53.74116,0 -97.5,43.75884 -97.5,97.5 0,53.74117 43.75884,97.49993 97.5,97.49993 53.74116,0 97.5,-43.75877 97.5,-97.49993 0,-53.74116 -43.75884,-97.5 -97.5,-97.5 z m 0,18 c 44.01324,0 79.5,35.48676 79.5,79.5 0,44.01324 -35.48676,79.50003 -79.5,79.50003 -44.01324,0 -79.5,-35.48679 -79.5,-79.50003 0,-44.01324 35.48676,-79.5 79.5,-79.5 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e6593c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+</svg>

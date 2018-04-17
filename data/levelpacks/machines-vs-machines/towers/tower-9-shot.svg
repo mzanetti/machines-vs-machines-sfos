@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg7585"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="tower-9-shot.svg"
+   inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower-9/tower-9.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7587">
+    <linearGradient
+       id="linearGradient4110">
+      <stop
+         style="stop-color:#37cbd3;stop-opacity:1;"
+         offset="0"
+         id="stop4112" />
+      <stop
+         id="stop4118"
+         offset="0.5"
+         style="stop-color:#8fe2e6;stop-opacity:1;" />
+      <stop
+         style="stop-color:#37cbd3;stop-opacity:1;"
+         offset="1"
+         id="stop4114" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4098">
+      <stop
+         style="stop-color:#232323;stop-opacity:1;"
+         offset="0"
+         id="stop4100" />
+      <stop
+         id="stop4106"
+         offset="0.5"
+         style="stop-color:#5d5d5d;stop-opacity:1;" />
+      <stop
+         style="stop-color:#262626;stop-opacity:1;"
+         offset="1"
+         id="stop4102" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4098"
+       id="linearGradient4128"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53097345,0,0,0.53097345,27.872535,57.508368)"
+       x1="44.87001"
+       y1="56.237179"
+       x2="74.62999"
+       y2="56.237179" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4110"
+       id="linearGradient4130"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.53097345,0,0,0.53097345,27.872535,57.508368)"
+       x1="47.25"
+       y1="112.73718"
+       x2="72.25"
+       y2="112.73718" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="143.48114"
+     inkscape:cy="30.520397"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8211"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="-255.99999px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7590">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(4,-5.3621826)"
+     style="display:none">
+    <rect
+       style="color:#000000;fill:#e9ebed;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4089"
+       width="128"
+       height="128"
+       x="-4"
+       y="5.3621826"
+       inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower-9/tower-9-shot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4,-5.3621826)"
+     style="display:inline">
+    <g
+       id="g4122"
+       transform="matrix(0,1,-1,0,152.03853,9.9358341)"
+       inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower-9/tower-9-shot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zczccz"
+         inkscape:connector-curvature="0"
+         id="rect4093"
+         d="m 52.961031,70.975013 c 2.84335,-8.156441 6.637168,-8.362832 6.637168,-8.362832 0,0 3.793817,0.206391 6.637168,8.362832 2.843351,8.156441 0,41.150437 0,41.150437 l -13.274336,0 c 0,0 -2.843351,-32.993996 0,-41.150437 z"
+         style="color:#000000;fill:url(#linearGradient4128);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="csccc"
+         inkscape:connector-curvature="0"
+         id="path4095"
+         d="m 52.983233,94.262611 c 0,0 -4.984223,4.181152 -6.596907,7.401419 -2.883357,5.7576 -3.58407,18.9823 -3.58407,18.9823 6.08428,-0.62194 7.382031,-7.61124 10.947301,-11.69683 z"
+         style="fill:#232323;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4108"
+         d="m 66.235367,112.12545 -1.314092,10.48673 -2.724057,-2.22345 -2.724055,2.22345 -2.724057,-2.22345 -2.724056,2.22345 -1.064019,-10.48673 z"
+         style="fill:url(#linearGradient4130);fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#232323;fill-opacity:1;stroke:none"
+         d="m 65.869464,94.262611 c 0,0 4.984223,4.181152 6.596907,7.401419 2.883357,5.7576 3.58407,18.9823 3.58407,18.9823 -6.08428,-0.62194 -7.382031,-7.61124 -10.947301,-11.69683 z"
+         id="path4120"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccc" />
+    </g>
+  </g>
+</svg>

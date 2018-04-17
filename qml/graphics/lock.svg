@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   id="svg3643"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nowy dokument 2">
+  <defs
+     id="defs3645" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="40.85714"
+     inkscape:cy="11.285706"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="964"
+     inkscape:window-height="415"
+     inkscape:window-x="956"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3648">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-117.14286,-626.64789)">
+    <g
+       id="g3672">
+      <rect
+         y="626.64789"
+         x="117.14286"
+         height="40"
+         width="40"
+         id="rect3768"
+         style="opacity:0;color:#000000;fill:#f44800;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/michal/SpiderOak Hive/grafika-testy/przyciski-wierze.png"
+         inkscape:connector-curvature="0"
+         id="rect3989"
+         d="m 135.25855,631.57341 c -3.09913,0 -5.65294,2.5538 -5.65294,5.6529 l 0,5.7237 c -2.14394,0.3569 -3.76862,2.2033 -3.76862,4.4516 l 0,9.7984 c 0,2.5054 2.01697,4.5224 4.52235,4.5224 l 13.56704,0 c 2.50538,0 4.52235,-2.017 4.52235,-4.5224 l 0,-9.7984 c 0,-2.2483 -1.62468,-4.0947 -3.76862,-4.4516 l 0,-5.7237 c 0,-3.0991 -2.55381,-5.6529 -5.65294,-5.6529 l -3.76862,0 z m 0,3.7686 3.76862,0 c 1.0765,0 1.88432,0.8078 1.88432,1.8843 l 0,5.653 -7.53726,0 0,-5.653 c 0,-1.0765 0.80782,-1.8843 1.88432,-1.8843 z m 1.88431,10.5757 c 1.66508,0 3.0149,1.3499 3.0149,3.0149 0,1.1144 -0.60838,2.0809 -1.50745,2.6027 l 0,5.0052 -3.0149,0 0,-5.0052 c -0.89907,-0.5218 -1.50745,-1.4883 -1.50745,-2.6027 0,-1.665 1.34982,-3.0149 3.0149,-3.0149 z"
+         style="color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

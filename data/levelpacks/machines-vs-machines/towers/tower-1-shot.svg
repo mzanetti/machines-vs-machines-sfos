@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/michal/Obrazy/Projekty/Ubuntu Tower Deffence/towers/tower_1/shot-tower-1.png"
+   sodipodi:docname="tower-1-shot.svg"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg3546"
+   height="128"
+   width="128">
+  <defs
+     id="defs3548">
+    <linearGradient
+       id="linearGradient45934">
+      <stop
+         id="stop45936"
+         offset="0"
+         style="stop-color:#fcfcfc;stop-opacity:1;" />
+      <stop
+         id="stop45938"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient45922">
+      <stop
+         style="stop-color:#720202;stop-opacity:1"
+         offset="0"
+         id="stop45924" />
+      <stop
+         style="stop-color:#df2e1b;stop-opacity:0.60784316;"
+         offset="1"
+         id="stop45926" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4335">
+      <stop
+         style="stop-color:#030303;stop-opacity:1"
+         offset="0"
+         id="stop4337" />
+      <stop
+         style="stop-color:#676767;stop-opacity:1;"
+         offset="1"
+         id="stop4339" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4335"
+       id="linearGradient45914"
+       gradientUnits="userSpaceOnUse"
+       x1="241.87471"
+       y1="105.38028"
+       x2="241.87471"
+       y2="97.59758" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient45934"
+       id="linearGradient45916"
+       gradientUnits="userSpaceOnUse"
+       x1="244.79073"
+       y1="99.117813"
+       x2="242.27916"
+       y2="101.56318" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient45922"
+       id="radialGradient45928"
+       cx="359.57523"
+       cy="530.66144"
+       fx="359.57523"
+       fy="530.66144"
+       r="13.73837"
+       gradientTransform="matrix(0.43592686,0.75215776,0.74792941,-0.43355303,-194.41992,490.83541)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="88.532504"
+     inkscape:cy="83.845059"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3551">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-5,83.375)"
+     style="display:none">
+    <rect
+       style="color:#000000;fill:#f1c40f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect44473"
+       width="128"
+       height="128"
+       x="5"
+       y="-83.375" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-295.94644,-467.43359)">
+    <path
+       sodipodi:nodetypes="cccccccccccccccccsssssssss"
+       inkscape:connector-curvature="0"
+       id="path45930"
+       d="m 354.05944,520.68875 c 0.24945,1.19706 0.0155,4.23708 -3.2829,2.93675 1.22116,2.9123 -1.27443,3.14361 -2.07345,4.12209 2.87894,2.3055 1.87876,2.5185 -0.45479,4.0363 3.08797,2.64413 0.22556,2.72822 0.85036,3.81041 5.16199,0.149 2.03213,2.95967 2.67307,3.99682 3.83484,-0.95769 2.83412,2.20731 3.95705,2.49463 3.92008,-2.20218 3.73424,0.51471 5.08389,0.30367 2.14485,-3.58554 3.29028,-0.64737 4.38197,-1.27765 -0.009,-3.25999 1.05793,-1.87799 3.17549,-2.38596 -1.34518,-3.40661 2.04279,-2.84121 2.35542,-3.95735 -2.21951,-2.91946 0.61062,-2.89878 0.44264,-4.24765 -3.25854,-2.36329 -0.71961,-3.36105 -1.34441,-4.44324 -2.57563,0.39399 -1.81453,-2.26692 -2.86261,-2.99848 -2.22915,0.94156 -3.07851,-0.47761 -3.78079,-1.99905 -1.12292,-0.28733 -2.79956,1.90479 -4.24952,-0.87285 -1.94297,2.46319 -3.36066,1.30024 -4.87142,0.48156 z m 2.0005,3.56955 c 1.97878,-1.14245 4.22002,-1.37521 6.24193,-0.85786 2.02193,0.51737 3.82419,1.80119 4.92537,3.70851 1.10119,1.90731 1.30012,4.08965 0.73721,6.09936 -0.56291,2.00971 -1.88513,3.83428 -3.8639,4.97673 -1.97877,1.14244 -4.23291,1.38267 -6.25483,0.86532 -2.02191,-0.51737 -3.81241,-1.78081 -4.91359,-3.68812 -1.10119,-1.90732 -1.31188,-4.11004 -0.74898,-6.11975 0.56291,-2.00971 1.89802,-3.84175 3.87679,-4.98419 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#radialGradient45928);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 349.3542,537.37896 c 0.81456,-0.91196 2.13195,-3.66168 -1.3747,-4.18475 2.51371,-1.91154 0.46812,-3.35966 0.26538,-4.60656 3.64599,-0.55716 2.88631,-1.2417 1.6243,-3.72293 3.99632,-0.74589 1.55945,-2.24993 2.64164,-2.87473 4.54491,2.45196 3.23971,-1.54709 4.31336,-2.12481 2.84221,2.7468 3.55806,-0.49454 4.67421,-0.18191 2.29381,3.86719 3.4913,1.42138 4.55462,2.27898 0.0647,4.17759 2.52578,2.20577 3.15607,3.29746 -1.63788,2.81868 -0.0228,2.15534 1.55707,3.65405 -2.86827,2.27762 0.34851,3.48195 0.0611,4.60488 -3.38188,1.41855 -0.92057,2.81572 -1.74048,3.89988 -4.00363,0.4174 -2.30373,2.55096 -3.38591,3.17575 -2.03358,-1.62902 -2.7049,1.05595 -3.97833,1.16546 -1.45972,-1.92998 -2.90489,-1.12563 -4.27379,-0.15917 -1.11614,-0.31262 -1.4721,-3.04938 -4.11661,-1.36885 -0.45107,-3.10467 -2.26031,-2.80637 -3.978,-2.85275 z m 3.51726,-2.09107 c 1.14244,1.97878 2.96704,3.30098 4.97675,3.86389 2.00971,0.56292 4.21243,0.35222 6.11974,-0.74898 1.90732,-1.10118 3.17076,-2.89167 3.68812,-4.91359 0.51736,-2.02192 0.28457,-4.26315 -0.85787,-6.24193 -1.14244,-1.97877 -2.97447,-3.31388 -4.98418,-3.8768 -2.0097,-0.5629 -4.19205,-0.36397 -6.09936,0.73721 -1.90731,1.10118 -3.19113,2.90345 -3.7085,4.92537 -0.51736,2.02192 -0.27714,4.27607 0.8653,6.25483 z"
+       id="path44572"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccsssssssss" />
+    <g
+       id="g3550"
+       transform="matrix(0.70867367,0,0,0.70867367,137.01795,109.81981)">
+      <path
+         transform="matrix(2.8235294,0,0,2.8235294,-369.42857,307.63949)"
+         d="m 246.5,101.75 c 0,2.34721 -1.90279,4.25 -4.25,4.25 -2.34721,0 -4.25,-1.90279 -4.25,-4.25 0,-2.34721 1.90279,-4.25 4.25,-4.25 2.34721,0 4.25,1.90279 4.25,4.25 z"
+         sodipodi:ry="4.25"
+         sodipodi:rx="4.25"
+         sodipodi:cy="101.75"
+         sodipodi:cx="242.25"
+         id="path4323"
+         style="color:#000000;fill:url(#linearGradient45914);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(2.3069918,-1.6279151,2.369448,1.7837334,-485.44697,805.71153)"
+         d="m 245.5625,100.375 c 0,0.9665 -0.83947,1.75 -1.875,1.75 -1.03553,0 -1.875,-0.7835 -1.875,-1.75 0,-0.966498 0.83947,-1.75 1.875,-1.75 1.03553,0 1.875,0.783502 1.875,1.75 z"
+         sodipodi:ry="1.75"
+         sodipodi:rx="1.875"
+         sodipodi:cy="100.375"
+         sodipodi:cx="243.6875"
+         id="path4325"
+         style="color:#000000;fill:url(#linearGradient45916);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="opacity:0;color:#000000;fill:#d33796;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06251514px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3548"
+       width="48"
+       height="48"
+       x="290.94644"
+       y="550.80859"
+       inkscape:export-filename="/home/michal/Devel/ubuntudefence/data/levelpacks/robots/towers/shot-tower-1-lv-0.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

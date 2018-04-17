@@ -1,0 +1,424 @@
+[
+  {
+    "configs": [
+      {
+        "shotRecovery": 2000, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-1-lv-0.png", 
+        "shotSound": "tower-1-shot", 
+        "damage": 1, 
+        "slowdown": 0, 
+        "cost": 10, 
+        "radius": 1, 
+        "imageBaseSize": 128, 
+        "destroyReward": 5, 
+        "shotStartDistance": 45, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-1-lv-1.png", 
+        "shotSound": "tower-1-shot", 
+        "damage": 1, 
+        "slowdown": 0, 
+        "cost": 5, 
+        "radius": 1.5, 
+        "imageBaseSize": 128, 
+        "destroyReward": 7, 
+        "shotStartDistance": 45, 
+        "shotDuration": 200, 
+        "unlockPoints": 20
+      }, 
+      {
+        "shotRecovery": 1000, 
+        "shotImage": "tower-shot-lv-2.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-1-lv-2.png", 
+        "shotSound": "tower-1-shot", 
+        "damage": 1, 
+        "slowdown": 0, 
+        "cost": 8, 
+        "radius": 2, 
+        "imageBaseSize": 128, 
+        "destroyReward": 11, 
+        "shotStartDistance": 45, 
+        "shotDuration": 200, 
+        "unlockPoints": 40
+      }, 
+      {
+        "shotRecovery": 500, 
+        "shotImage": "tower-shot-lv-3.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-1-lv-3.png", 
+        "shotSound": "tower-1-shot", 
+        "damage": 1, 
+        "slowdown": 0, 
+        "cost": 10, 
+        "radius": 2, 
+        "imageBaseSize": 128, 
+        "destroyReward": 16, 
+        "shotStartDistance": 45, 
+        "shotDuration": 200, 
+        "unlockPoints": 800
+      }
+    ], 
+    "id": 1, 
+    "name": "Garamond"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-2-lv-0.png", 
+        "shotSound": "tower-2-shot", 
+        "damage": 0, 
+        "slowdown": 3, 
+        "cost": 8, 
+        "radius": 1, 
+        "imageBaseSize": 128, 
+        "destroyReward": 4, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-2-lv-1.png", 
+        "shotSound": "tower-2-shot", 
+        "damage": 0, 
+        "slowdown": 5, 
+        "cost": 4, 
+        "radius": 1.5, 
+        "imageBaseSize": 128, 
+        "destroyReward": 6, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200, 
+        "unlockPoints": 25
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-2.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-2-lv-2.png", 
+        "shotSound": "tower-2-shot", 
+        "damage": 0, 
+        "slowdown": 7, 
+        "cost": 8, 
+        "radius": 2, 
+        "imageBaseSize": 128, 
+        "destroyReward": 10, 
+        "shotStartDistance": 64, 
+        "shotDuration": 200, 
+        "unlockPoints": 30
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-3.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-2-lv-3.png", 
+        "shotSound": "tower-2-shot", 
+        "damage": 0, 
+        "slowdown": 10, 
+        "cost": 12, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 18, 
+        "shotStartDistance": 64, 
+        "shotDuration": 200, 
+        "unlockPoints": 40
+      }
+    ], 
+    "id": 2, 
+    "name": "Baskerville"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 6000, 
+        "locked": true, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-3-lv-0.png", 
+        "shotSound": "tower-3-shot", 
+        "damage": 5, 
+        "slowdown": 0, 
+        "shotType": "charge", 
+        "cost": 15, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 7, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200, 
+        "unlockPoints": 18
+      }, 
+      {
+        "shotRecovery": 5000, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-3-lv-1.png", 
+        "shotSound": "tower-3-shot", 
+        "damage": 5, 
+        "slowdown": 1, 
+        "shotType": "charge", 
+        "cost": 10, 
+        "radius": 4, 
+        "imageBaseSize": 128, 
+        "destroyReward": 12, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 4000, 
+        "shotImage": "tower-shot-lv-2.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-3-lv-2.png", 
+        "shotSound": "tower-3-shot", 
+        "damage": 5, 
+        "slowdown": 2, 
+        "shotType": "charge", 
+        "cost": 15, 
+        "radius": 5, 
+        "imageBaseSize": 128, 
+        "destroyReward": 18, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 3000, 
+        "shotImage": "tower-shot-lv-3.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-3-lv-3.png", 
+        "shotSound": "tower-3-shot", 
+        "damage": 5, 
+        "slowdown": 2, 
+        "shotType": "charge", 
+        "cost": 20, 
+        "radius": 6, 
+        "imageBaseSize": 128, 
+        "destroyReward": 25, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }
+    ], 
+    "id": 3, 
+    "name": "Didot"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 2000, 
+        "locked": true, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-4-lv-0.png", 
+        "shotSound": "tower-4-shot", 
+        "damage": 5, 
+        "slowdown": 2, 
+        "shotType": "radial", 
+        "cost": 20, 
+        "shotCount": 0, 
+        "imageBaseSize": 128, 
+        "radius": 1.5, 
+        "destroyReward": 10, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200, 
+        "unlockPoints": 20
+      }, 
+      {
+        "shotRecovery": 1500, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotSound": "tower-4-shot", 
+        "image": "tower-4-lv-1.png", 
+        "shotCount": 0, 
+        "damage": 6, 
+        "slowdown": 3, 
+        "shotType": "radial", 
+        "cost": 10, 
+        "radius": 1.5, 
+        "imageBaseSize": 128, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "destroyReward": 15, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 1200, 
+        "shotImage": "tower-shot-lv-2.png", 
+        "shotSound": "tower-4-shot", 
+        "image": "tower-4-lv-2.png", 
+        "shotCount": 0, 
+        "damage": 7, 
+        "slowdown": 4, 
+        "shotType": "radial", 
+        "cost": 15, 
+        "radius": 1.5, 
+        "imageBaseSize": 128, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "destroyReward": 22, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }, 
+      {
+        "shotRecovery": 1000, 
+        "shotImage": "tower-shot-lv-3.png", 
+        "shotSound": "tower-4-shot", 
+        "image": "tower-4-lv-3.png", 
+        "shotCount": 0, 
+        "damage": 8, 
+        "slowdown": 5, 
+        "shotType": "radial", 
+        "cost": 20, 
+        "radius": 1.5, 
+        "imageBaseSize": 128, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "destroyReward": 30, 
+        "shotStartDistance": 0, 
+        "shotDuration": 200
+      }
+    ], 
+    "id": 4, 
+    "name": "Futura"
+  }, 
+  {
+    "configs": [
+      {
+        "shotRecovery": 2000, 
+        "locked": true, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "unlockPoints": 22, 
+        "shotDuration": 1000, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-5-lv-0.png", 
+        "shotSound": "tower-5-shot", 
+        "damage": 8, 
+        "slowdown": 5, 
+        "shotType": "follow", 
+        "cost": 30, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 15, 
+        "shotStartDistance": 0, 
+        "shotLifetime": 3000
+      }, 
+      {
+        "shotRecovery": 2000, 
+        "shotImage": "tower-shot-lv-01.png", 
+        "shotDuration": 1000, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-5-lv-1.png", 
+        "shotSound": "tower-5-shot", 
+        "damage": 9, 
+        "slowdown": 6, 
+        "shotType": "follow", 
+        "cost": 15, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 22, 
+        "shotStartDistance": 0, 
+        "shotLifetime": 4000
+      }, 
+      {
+        "shotRecovery": 2000, 
+        "shotImage": "tower-shot-lv-2.png", 
+        "shotDuration": 1000, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-5-lv-2.png", 
+        "shotSound": "tower-5-shot", 
+        "damage": 10, 
+        "slowdown": 7, 
+        "shotType": "follow", 
+        "cost": 30, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 37, 
+        "shotStartDistance": 0, 
+        "shotLifetime": 5000
+      }, 
+      {
+        "shotRecovery": 2000, 
+        "shotImage": "tower-shot-lv-3.png", 
+        "shotDuration": 1000, 
+        "shotCenter": {
+          "y": 64, 
+          "x": 64
+        }, 
+        "image": "tower-5-lv-3.png", 
+        "shotSound": "tower-5-shot", 
+        "damage": 12, 
+        "slowdown": 8, 
+        "shotType": "follow", 
+        "cost": 45, 
+        "radius": 3, 
+        "imageBaseSize": 128, 
+        "destroyReward": 60, 
+        "shotStartDistance": 0, 
+        "shotLifetime": 6000
+      }
+    ], 
+    "id": 5, 
+    "name": "Ubuntu"
+  }
+]

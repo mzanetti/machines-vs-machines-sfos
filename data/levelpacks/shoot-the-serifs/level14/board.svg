@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg4172"
+   viewBox="0 0 5120 2560"
+   height="2560"
+   width="5120">
+  <defs
+     id="defs4174">
+    <linearGradient
+       id="linearGradient6932">
+      <stop
+         id="stop6934"
+         offset="0"
+         style="stop-color:#391f00;stop-opacity:1" />
+      <stop
+         id="stop6936"
+         offset="1"
+         style="stop-color:#8c4b00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8057">
+      <stop
+         id="stop8059"
+         offset="0"
+         style="stop-color:#12a3d8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#12a3d8;stop-opacity:0.49803922;"
+         offset="0.78607368"
+         id="stop8061" />
+      <stop
+         id="stop8063"
+         offset="1"
+         style="stop-color:#12a3d8;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7769">
+      <stop
+         style="stop-color:#12a3d8;stop-opacity:1;"
+         offset="0"
+         id="stop7771" />
+      <stop
+         id="stop7773"
+         offset="0.71629661"
+         style="stop-color:#12a3d8;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#12a3d8;stop-opacity:0;"
+         offset="1"
+         id="stop7775" />
+    </linearGradient>
+    <linearGradient
+       y2="-995.63794"
+       x2="1280"
+       y1="-239.0665"
+       x1="1282.3572"
+       spreadMethod="reflect"
+       gradientTransform="matrix(1,0,0,1.3333333,-256,75.87929)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7787"
+       xlink:href="#linearGradient7769" />
+    <linearGradient
+       y2="-739.63788"
+       x2="4096"
+       y1="-739.63788"
+       x1="2560"
+       spreadMethod="reflect"
+       gradientTransform="matrix(1.1666667,0,0,1,-426.66669,-256)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8065"
+       xlink:href="#linearGradient8057" />
+    <filter
+       height="1.0242301"
+       y="-0.012115066"
+       width="1.0237742"
+       x="-0.011887099"
+       id="filter6928"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6930"
+         stdDeviation="5.9984653" />
+    </filter>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98162033,0,32.922727)"
+       r="619.94"
+       fy="1696.453"
+       fx="3678.9951"
+       cy="1696.453"
+       cx="3678.9951"
+       id="radialGradient6938"
+       xlink:href="#linearGradient6932" />
+  </defs>
+  <metadata
+     id="metadata4177">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer6">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#fef7e4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect6000"
+       width="5120"
+       height="2560"
+       x="0"
+       y="-1507.6379"
+       transform="translate(0,1507.6379)" />
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot8090"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8092"><rect
+           y="1076"
+           x="1248"
+           height="180"
+           width="88"
+           id="rect8094" /></flowRegion><flowPara
+         id="flowPara8096" /></flowRoot>    <path
+       d="m 1346.268,898.28513 c 0,-29.0603 5.0939,-51.44 15.2817,-67.1392 10.3548,-15.6992 24.6344,-23.5488 42.8388,-23.5488 18.2044,0 32.4005,7.8496 42.5883,23.5488 10.3548,15.6992 15.5322,38.0789 15.5322,67.1392 0,29.0602 -5.1774,51.4399 -15.5322,67.1391 -10.1878,15.6993 -24.3839,23.5489 -42.5883,23.5489 -18.2044,0 -32.484,-7.8496 -42.8388,-23.5489 -10.1878,-15.6992 -15.2817,-38.0789 -15.2817,-67.1391 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#1f1f1f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path13732" />
+    <path
+       id="path13736"
+       d="m 3410.2363,1607.7038 c 19.9477,-7.7181 38.758,-19.306 52.609,-35.8243 l 16.5343,0 0,173.6099 -23.2983,0 0,-117.7929 c -11.198,9.6218 -24.785,16.0569 -38.58,21.0436 -2.4217,-5.8454 -4.8433,-35.1909 -7.265,-41.0363 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#1f1f1f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer1"
+     transform="translate(0,1507.6379)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f4f2ee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6002"
+       width="256"
+       height="256"
+       x="-768"
+       y="-1507.6379" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e4e3e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6004"
+       width="256"
+       height="256"
+       x="-768"
+       y="-995.63788" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fef7e4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6006"
+       width="256"
+       height="256"
+       x="-768"
+       y="-483.63791" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0e4a55;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6008"
+       width="256"
+       height="256"
+       x="-768"
+       y="28.362101" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1f1f1f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect6010"
+       width="256"
+       height="256"
+       x="-768"
+       y="540.36212" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient7787);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1024,-1251.6379 0,2047.99999"
+       id="path4339" />
+    <path
+       id="path7353"
+       d="m 768,-995.6379 3584,0"
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient8065);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(2560,0)"
+       id="use7371"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(2304,0)"
+       id="use7373"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(2048,0)"
+       id="use7375"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1792,0)"
+       id="use7377"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1536,0)"
+       id="use7379"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1280,0)"
+       id="use7381"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1024,0)"
+       id="use7383"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(768,0)"
+       id="use7385"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(512,0)"
+       id="use7387"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(2816,0)"
+       id="use7389"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(256,0)"
+       id="use7789"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(3072,0)"
+       id="use7791"
+       xlink:href="#path4339"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,256)"
+       id="use7793"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,512)"
+       id="use7795"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,768)"
+       id="use7797"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,1024)"
+       id="use7799"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,1280)"
+       id="use7801"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(0,1536)"
+       id="use7803"
+       xlink:href="#path7353"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     style="display:inline"
+     id="layer4">
+    <path
+       transform="matrix(0.96529722,0.26115371,-0.26115371,0.96529722,587.24972,-1081.1319)"
+       id="path4335"
+       d="m 3630.4557,1202.998 c -12.1506,-20.8656 -23.0096,22.114 -42.6409,0.3877 -19.5629,5.1268 -13.5736,22.5112 -14.7349,-3.4617 -17.7254,7.2698 -11.3837,-10.6176 -22.8367,8.3 -15.9798,1.7417 -28.4511,-0.3733 -45.999,5.8214 -12.3406,-3.7163 0.6206,7.3998 -21.0054,15.3452 -11.1552,-16.6254 -20.367,10.156 1.2756,-5.7141 -25.4677,0.4193 -29.523,-6.251 -35.3672,13.8208 -3.9482,2.864 -24.0865,-21.8529 -21.3357,9.4459 -8.6118,-27.0121 -1.4255,16.8211 -13.0411,-15.8069 1.5238,31.7977 -63.0196,13.2943 -27.5278,33.1084 -23.2738,0.2678 -20.3627,9.5668 -48.2342,17.2318 6.1462,-27.1637 -14.524,21.2226 -30.9355,6.3457 16.0102,25.4472 -17.3914,16.303 -25.6476,18.8791 -9.9209,33.4862 -49.4252,16.0623 -28.3748,36.1522 -12.2222,-23.2441 -37.5155,36.2853 -27.8726,11.9072 0.3305,5.1528 -2.8468,10.5943 -10.1799,18.6129 -6.8778,16.0538 -22.7272,-5.8669 -25.0166,20.1712 -5.971,-3.5117 -17.662,28.4693 -30.3416,32.1808 -1.4673,19.6064 3.7723,-25.0837 -5.9136,9.0387 -8.0524,11.402 -19.1947,32.6847 -19.3049,28.8428 -21.1663,14.2078 -22.6745,37.7387 -37.5438,57.9192 -11.266,9.0478 -8.3422,16.0116 -16.2471,26.9459 19.8612,8.2114 -36.4213,25.9762 -5.3746,43.7758 -29.6176,-7.2481 -9.09,20.1769 -26.3666,24.3275 24.368,-8.8865 -19.8203,21.4764 3.1062,17.6015 -4.9953,23.123 -4.2752,22.1236 -25.2424,50.1626 17.4075,29.1004 -7.2544,59.9446 3.5298,64.2374 -5.7704,19.1386 20.2314,-3.7155 -6.5077,16.3152 10.8295,4.7304 -11.8155,10.1496 12.1394,19.3828 -18.7571,-5.7856 -7.4598,10.6528 -16.0693,14.4511 7.5355,1.9062 -4.0375,51.0798 12.981,26.2088 -23.7062,21.5684 -10.1608,28.6721 2.2873,54.8938 -32.6011,-1.1288 23.8604,14.5523 -7.6952,30.6577 -3.0824,-30.9732 13.357,29.4997 10.1455,16.1854 -26.5359,25.887 13.5514,-19.7075 1.0722,13.5245 -6.5015,-40.2851 -1.4647,33.3158 3.8697,-7.9316 13.7774,16.9786 1.3327,37.2768 -0.3685,34.7234 -13.1594,5.945 38.8001,23.5437 6.9099,28.6178 4.8878,14.559 20.3752,14.6883 24.9479,51.3793 28.1082,13.8051 -2.1877,66.2979 37.173,44.8573 -14.052,8.725 -13.4377,21.9624 -4.2889,26.7549 2.7098,26.4795 15.267,-5.904 2.1626,21.5685 33.8544,-21.6163 17.8077,42.1733 26.1083,20.5685 31.4536,-5.862 8.1732,26.6841 30.8998,31.8151 -5.9702,-8.5163 15.084,28.9544 12.4826,4.9829 -20.756,29.6675 27.5037,14.1723 -0.471,31.0912 24.3544,14.7132 20.1603,-8.7536 31.0259,18.1376 -5.4522,-20.398 22.0789,23.3686 -3.5263,2.0749 5.9037,13.8142 87.7009,18.6163 37.5218,19.2113 7.5403,22.4592 21.2196,42.39 30.7604,34.5039 41.5299,-10.4078 -6.1004,20.906 18.742,2.961 10.2976,39.7127 55.2979,16.2487 42.9456,32.06 26.1139,-14.6855 0.6157,15.5414 16.4027,-3.959 4.2006,25.6441 -1.8439,-12.5502 2.3148,21.1089 30.2121,-3.5271 27.3087,10.7706 42.023,-1.1262 13.5479,13.7629 3.8106,30.0775 21.3391,11.4452 -20.7369,6.3332 6.9825,24.2251 -0.6633,7.5946 22.8158,13.4089 61.9021,5.4334 49.6638,12.4849 -27.249,2.5097 -11.9804,-59.403 -47.088,-50.7417 -7.708,-25.3263 -31.5303,-14.0961 -33.6232,-32.4114 6.4349,8.2272 -32.4558,-21.3349 -16.7863,4.8109 -23.1189,-5.0625 -15.6609,-28.6822 -36.719,-34.0843 -0.6652,-43.2734 -13.6065,32.7649 -10.1685,-8.8647 -28.4745,5.1821 26.7512,-0.8261 -12.9429,-6.6281 -17.5813,-17.3568 -25.002,-42.3919 -48.8421,-45.1466 24.0408,-0.7266 -29.1193,-23.6824 -14.36,-34.4147 -21.77,5.2046 -22.168,-52.2126 -21.8484,-21.333 -20.2051,-25.3981 -20.7874,-26.2873 -31.8249,-41.4053 -2.3021,-20.4261 -33.4726,-68.0098 -33.0237,-67.9268 -4.5777,-32.231 0.1765,-29.9957 -16.9993,-73.2457 -18.3354,20.4748 0.891,-40.5634 -13.4905,-24.5681 13.999,-21.3601 -13.4045,-41.7175 5.1732,-51.3985 -20.5283,-0.495 3.6918,-41.2854 -11.8555,-26.2826 3.5884,-31.3021 6.3645,-42.9354 2.7188,-65 7.4034,-2.248 -2.2528,-22.1045 8.5676,-30.6882 -17.0053,-24.206 10.1398,0.9479 -2.2468,-13.2253 16.086,-7.1148 0.3776,-55.353 11.5495,-28.3883 -27.7317,-10.3606 15.5166,-9.9047 1.9255,-40.6284 -14.5648,-0.266 13.4961,-3.6015 9.1291,-28.0511 -15.2996,10.5354 23.6276,-28.0691 12.7055,-20.5266 -16.1723,10.5689 18.2708,-28.2149 2.7899,-28.7831 26.4235,-39.2675 18.7999,-35.8653 33.3963,-71.336 7.2468,15.3997 -4.7308,-18.577 10.7133,-9.8689 12.1483,-8.4715 24.0524,-21.5572 28.1216,-40.0069 23.6586,-30.5705 -1.213,20.4449 19.7097,-6.8485 -12.4223,-9.5185 -1.6956,-24.8122 3.8341,-11.389 9.5847,-17.8182 33.4148,-51.6422 39.7559,-40.4183 22.2418,-4.6896 0.4688,-39.155 44.7667,-34.6774 9.8144,-6.5409 23.2318,-50.1176 37.7773,-17.9598 -33.1513,-41.5928 52.7341,-16.1563 31.9637,-33.0249 22.3266,2.1525 19.9796,-11.9015 22.638,-17.3019 -21.7979,7.5781 17.8301,13.9668 9.3908,-7.9569 29.5112,18.4538 -14.3823,5.0256 22.0575,-3.5607 12.3825,11.8678 -19.8123,-0.8843 12.4208,1.9183 13.4485,-8.7831 4.9457,-1.2122 27.2485,-13.19 -11.1814,11.2365 68.2802,-15.5111 45.5051,-9.5328 19.8356,2.3324 26.4038,8.8408 24.9855,-11.2519 11.118,14.9359 25.3072,-26.2132 12.4875,3.0827 14.8636,-21.7734 30.1091,7.1756 42.3507,-11.528 -17.0852,27.1011 35.7924,-16.5877 25.5158,16.5901 10.8174,-33.9825 34.2983,7.7617 35.0113,-23.0255 5.6507,47.6393 57.0682,-11.8148 92.5493,28.1783 -13.2374,-25.6213 41.8098,11.5184 39.439,14.4573 14.4692,-25.7217 -15.6906,21.4597 13.1581,-6.1109 27.3437,-6.7335 -14.5919,3.8857 23.116,2.993 10.6464,27.4203 4.8181,-11.6073 10.8781,15.678 12.8471,-37.3682 2.1531,26.8445 32.2679,-5.6057 -24.8607,-12.2452 -10.1031,26.5571 11.3368,16.9317 -34.5154,19.5216 38.3171,-20.7473 5.9584,12.3658 9.2673,-3.8081 35.0398,-19.6292 20.7669,2.4131 -9.1446,-17.1538 37.2026,10.3865 8.898,13.2362 29.7573,-24.4875 22.7518,43.5169 47.2977,15.0301 -6.9714,25.3238 21.4539,4.9268 31.6559,35.5042 19.7104,-6.9167 26.501,47.5869 51.4188,5.4165 34.8931,-50.3835 -62.3344,61.5231 13.7505,48.1929 21.1111,-10.7503 -29.0621,22.0224 11.4024,14.9983 -11.7928,-2.1262 15.8338,34.9349 6.6787,2.0543 -11.8634,30.1215 21.5726,71.5649 28.0148,67.0684 2.0948,20.3208 15.4657,24.8274 14.1491,23.261 6.7981,4.0181 5.1682,10.4727 13.883,21.9088 -26.7631,7.8924 29.3285,-8.0317 -1.6516,7.2325 10.5354,-0.6639 7.7281,42.6352 27.3235,37.3199 3.6243,25.4255 -17.5281,-11.9721 4.4751,13.2031 -28.2509,10.2491 20.7216,2.5439 7.2599,37.7606 -16.9596,-22.1439 27.575,1.4428 -1.5176,-4.0877 14.3736,29.9445 19.0161,-9.3891 13.2393,25.3168 0.7295,6.0298 -6.6397,10.9849 6.1047,11.8932 1.066,-19.938 -20.3015,-21.1064 -1.6842,-45.2532 -1.3733,-25.2994 -20.1136,11.8759 -13.7672,-28.6531 -5.0683,8.0786 1.4843,-37.9822 -10.6642,-17.7604 26.4809,-19.3018 -21.2305,-20.9861 -3.6194,-42.2 -4.7478,23.0489 0.9312,-15.8682 -12.6117,8.6796 -16.6935,-28.4499 9.8945,-19.8473 -5.3361,-33.2298 14.5204,-21.0742 -16.34,-18.7028 -12.2949,-37.9665 -7.1961,-17.853 5.1455,25.9894 8.9267,-4.0863 -41.124,31.0919 21.2767,-39.1165 -36.587,-27.8204 11.8329,-28.8415 -30.1925,-11.1751 -5.6128,-29.0885 -7.5285,24.6006 -9.8181,-40.2456 -20.9545,-5.8012 29.4444,-23.9671 -19.1232,1.497 1.2912,-28.1476 -18.602,13.1435 -25.6442,-30.2639 -50.3869,-46.4462 10.485,-15.4474 1.1366,17.0781 -11.7431,-7.6665 13.8108,-23.6269 -22.3407,6.7363 -7.8714,-26.4958 -0.5539,21.7258 -13.068,-12.0427 -30.447,-7.1551 25.488,-31.9844 -10.7912,23.6431 -1.7451,-16.9247 9.8438,42.4969 -24.9479,-28.535 -16.9715,-7.5362 -3.1877,-15.4245 -9.839,13.625 -21.6498,-17.0474 -24.1533,-1.8214 -8.8363,-10.5647 -19.0375,-10.9272 3.505,14.0479 -24.6198,-8.6084 -7.0458,-5.1525 -21.1066,-3.4658 -17.0639,-28.6137 -43.8483,-15.2113 -5.4545,-12.0726 -10.8158,-27.1164 -45.6153,-29.0729 10.8085,31.2958 -22.5007,-33.5032 -11.5404,-3.2007 -21.7918,-7.1508 -41.938,-10.5937 -42.3162,-16.0915 -13.5566,-14.8472 -14.0546,12.4579 -14.6945,-15.2417 -29.9892,8.4099 -68.6724,-6.5456 -83.6718,-6.8013 -27.917,11.872 -12.4145,5.8304 -17.1079,-8.8958 -17.815,5.4991 -5.1698,-10.5084 -14.3851,13.731 -11.7867,-14.914 -14.3326,12.2623 -34.4763,-13.4956 -0.6698,-1.5232 -24.605,-2.946 -13.93,2.4443 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.68800001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient6938);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter6928);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     id="layer3"
+     style="display:inline">
+    <circle
+       r="15"
+       cy="2841"
+       cx="779"
+       id="path6961"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1f1f1f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <g
+       id="g8582">
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,-1433.000000,1543.000050)"
+         id="use8205" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,-1433.000000,1473.469188)"
+         id="use6949" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,652.061725,-2192.999950)"
+         id="use1459" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,721.592587,-2192.999950)"
+         id="use7450" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,791.123449,-2192.999950)"
+         id="use5824" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,860.654312,-2192.999950)"
+         id="use4093" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,-83.814776)"
+         id="use4352" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,-14.283914)"
+         id="use6970" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,55.246949)"
+         id="use0475" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,124.777811)"
+         id="use7155" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,194.308673)"
+         id="use5972" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,263.839536)"
+         id="use5310" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,333.370398)"
+         id="use0262" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,402.901260)"
+         id="use7233" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,472.432123)"
+         id="use9350" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,541.962985)"
+         id="use3810" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4503.000000,611.493848)"
+         id="use8082" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,2390.975290,4251.000000)"
+         id="use1612" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,2321.444428,4251.000000)"
+         id="use2958" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,2251.913565,4251.000000)"
+         id="use6856" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,633.617297)"
+         id="use1119" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,703.148159)"
+         id="use5351" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,772.679022)"
+         id="use5332" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,842.209884)"
+         id="use5781" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,911.740746)"
+         id="use1775" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,981.271609)"
+         id="use4359" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,1050.802471)"
+         id="use0484" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,4247.000000,1120.333333)"
+         id="use9768" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,675.864196,-921.000000)"
+         id="use5298" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,745.395058,-921.000000)"
+         id="use4701" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,814.925920,-921.000000)"
+         id="use2089" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,884.456783,-921.000000)"
+         id="use6186" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,953.987645,-921.000000)"
+         id="use6820" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1023.518507,-921.000000)"
+         id="use1258" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1093.049370,-921.000000)"
+         id="use2918" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1162.580232,-921.000000)"
+         id="use9578" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1232.111094,-921.000000)"
+         id="use7112" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1301.641957,-921.000000)"
+         id="use2339" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1371.172819,-921.000000)"
+         id="use7601" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1440.703681,-921.000000)"
+         id="use3560" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1510.234544,-921.000000)"
+         id="use1036" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1579.765406,-921.000000)"
+         id="use8325" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1649.296269,-921.000000)"
+         id="use5720" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1718.827131,-921.000000)"
+         id="use1729" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1788.357993,-921.000000)"
+         id="use4249" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1857.888856,-921.000000)"
+         id="use0840" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1927.419718,-921.000000)"
+         id="use8214" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,1996.950580,-921.000000)"
+         id="use2536" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2066.481443,-921.000000)"
+         id="use5255" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2136.012305,-921.000000)"
+         id="use7344" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2205.543167,-921.000000)"
+         id="use0434" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2275.074030,-921.000000)"
+         id="use4054" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2344.604892,-921.000000)"
+         id="use0190" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2414.135754,-921.000000)"
+         id="use7872" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2634.333283)"
+         id="use7969" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2564.802421)"
+         id="use4426" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2495.271559)"
+         id="use2437" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2425.740696)"
+         id="use7104" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2356.209834)"
+         id="use4166" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2286.678972)"
+         id="use8177" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,356.999900,2217.148109)"
+         id="use3899" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2452.382653,-1439.000000)"
+         id="use8276" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2521.913515,-1439.000000)"
+         id="use2075" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2591.444378,-1439.000000)"
+         id="use6671" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2660.975240,-1439.000000)"
+         id="use5892" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2730.506102,-1439.000000)"
+         id="use5136" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2800.036965,-1439.000000)"
+         id="use6070" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(1.000000,0.000000,0.000000,1.000000,2869.567827,-1439.000000)"
+         id="use5722" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,631.098790)"
+         id="use6518" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,700.629652)"
+         id="use5514" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,770.160514)"
+         id="use6215" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,839.691377)"
+         id="use6130" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,909.222239)"
+         id="use4321" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,978.753101)"
+         id="use1951" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,1048.283964)"
+         id="use5830" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,1.000000,-1.000000,0.000000,6550.999900,1117.814826)"
+         id="use3159" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,4448.654212,4767.000000)"
+         id="use9178" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,4379.123349,4767.000000)"
+         id="use0707" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,4309.592487,4767.000000)"
+         id="use4968" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(-1.000000,0.000000,-0.000000,-1.000000,4240.061625,4767.000000)"
+         id="use8096" />
+      <use
+         xlink:href="#path6961"
+         transform="matrix(0.000000,-1.000000,1.000000,0.000000,614.999900,2640.530862)"
+         id="use9295" />
+    </g>
+  </g>
+  <g
+     id="layer2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1093.1062"
+       y="714.32867"
+       id="text6397"><tspan
+         id="tspan6399"
+         x="1093.1062"
+         y="714.32867">0</tspan></text>
+    <text
+       id="use6691"
+       y="963.72961"
+       x="1093.1062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="1093.1062"
+         id="tspan7115">12</tspan></text>
+    <text
+       id="use6693"
+       y="1228.4629"
+       x="1093.1062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="1093.1062"
+         id="tspan7111">24</tspan></text>
+    <text
+       id="use6695"
+       y="1474.5284"
+       x="1093.1062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="1093.1062"
+         id="tspan7107">36</tspan></text>
+    <text
+       id="use6697"
+       y="1730.594"
+       x="1093.1062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="1093.1062"
+         id="tspan7103">48</tspan></text>
+    <text
+       id="use6699"
+       y="1973.9949"
+       x="1093.1062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="1093.1062"
+         id="tspan7099">60</tspan></text>
+    <text
+       id="use6701"
+       y="714.32867"
+       x="1359.5999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="1359.5999"
+         id="tspan7095">1</tspan></text>
+    <text
+       id="use6703"
+       y="963.72961"
+       x="1345.9294"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="1345.9294"
+         id="tspan7091">13</tspan></text>
+    <text
+       id="use6705"
+       y="1228.4629"
+       x="1348.7798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="1348.7798"
+         id="tspan7087">25</tspan></text>
+    <text
+       id="use6707"
+       y="1474.5284"
+       x="1347.0491"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="1347.0491"
+         id="tspan7083">37</tspan></text>
+    <text
+       id="use6709"
+       y="1730.594"
+       x="1347.0492"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="1347.0492"
+         id="tspan7079">49</tspan></text>
+    <text
+       id="use6711"
+       y="1973.9949"
+       x="1358.4336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="1358.4336"
+         id="tspan7075">61</tspan></text>
+    <text
+       id="use6713"
+       y="714.32867"
+       x="1608.7365"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="1608.7365"
+         id="tspan7071">2</tspan></text>
+    <text
+       id="use6715"
+       y="963.72961"
+       x="1595.5798"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="1595.5798"
+         id="tspan7067">14</tspan></text>
+    <text
+       id="use6717"
+       y="1228.4629"
+       x="1599.5074"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="1599.5074"
+         id="tspan7063">26</tspan></text>
+    <text
+       id="use6719"
+       y="1474.5284"
+       x="1599.1259"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="1599.1259"
+         id="tspan7059">38</tspan></text>
+    <text
+       id="use6721"
+       y="1730.594"
+       x="1596.6995"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="1596.6995"
+         id="tspan7055">50</tspan></text>
+    <text
+       id="use6723"
+       y="1973.9949"
+       x="1598.939"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="1598.939"
+         id="tspan7051">62</tspan></text>
+    <text
+       id="use6725"
+       y="714.32867"
+       x="1865.8983"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="1865.8983"
+         id="tspan7047">3</tspan></text>
+    <text
+       id="use6727"
+       y="963.72961"
+       x="1851.2024"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="1851.2024"
+         id="tspan7043">15</tspan></text>
+    <text
+       id="use6729"
+       y="1228.4629"
+       x="1853.4081"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="1853.4081"
+         id="tspan7039">27</tspan></text>
+    <text
+       id="use6731"
+       y="1474.5284"
+       x="1852.6954"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="1852.6954"
+         id="tspan7035">39</tspan></text>
+    <text
+       id="use6733"
+       y="1730.594"
+       x="1863.4266"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="1863.4266"
+         id="tspan7031">51</tspan></text>
+    <text
+       id="use6735"
+       y="1973.9949"
+       x="1850.8291"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="1850.8291"
+         id="tspan7027">63</tspan></text>
+    <text
+       id="use6737"
+       y="714.32867"
+       x="2121.1941"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="2121.1941"
+         id="tspan7023">4</tspan></text>
+    <text
+       id="use6739"
+       y="963.72961"
+       x="2101.8794"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="2101.8794"
+         id="tspan7019">16</tspan></text>
+    <text
+       id="use6741"
+       y="1228.4629"
+       x="2105.4421"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="2105.4421"
+         id="tspan7015">28</tspan></text>
+    <text
+       id="use6743"
+       y="1474.5284"
+       x="2105.7051"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="2105.7051"
+         id="tspan7011">40</tspan></text>
+    <text
+       id="use6745"
+       y="1730.594"
+       x="2105.3318"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="2105.3318"
+         id="tspan7007">52</tspan></text>
+    <text
+       id="use6747"
+       y="1973.9949"
+       x="2099.5464"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="2099.5464"
+         id="tspan7003">64</tspan></text>
+    <text
+       id="use6749"
+       y="714.32867"
+       x="2378.7292"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="2378.7292"
+         id="tspan6999">5</tspan></text>
+    <text
+       id="use6751"
+       y="963.72961"
+       x="2355.729"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="2355.729"
+         id="tspan6995">17</tspan></text>
+    <text
+       id="use6753"
+       y="1228.4629"
+       x="2358.9695"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="2358.9695"
+         id="tspan6991">29</tspan></text>
+    <text
+       id="use6755"
+       y="1474.5284"
+       x="2372.0591"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="2372.0591"
+         id="tspan6987">41</tspan></text>
+    <text
+       id="use6757"
+       y="1730.594"
+       x="2358.6213"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="2358.6213"
+         id="tspan6983">53</tspan></text>
+    <text
+       id="use6759"
+       y="1973.9949"
+       x="2354.2356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="2354.2356"
+         id="tspan6979">65</tspan></text>
+    <text
+       id="use6761"
+       y="714.32867"
+       x="2633.8381"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="2633.8381"
+         id="tspan6975">6</tspan></text>
+    <text
+       id="use6763"
+       y="963.72961"
+       x="2607.7122"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="2607.7122"
+         id="tspan6971">18</tspan></text>
+    <text
+       id="use6765"
+       y="1228.4629"
+       x="2610.6304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="2610.6304"
+         id="tspan6967">30</tspan></text>
+    <text
+       id="use6767"
+       y="1474.5284"
+       x="2613.5911"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="2613.5911"
+         id="tspan6963">42</tspan></text>
+    <text
+       id="use6769"
+       y="1730.594"
+       x="2608.7383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="2608.7383"
+         id="tspan6959">54</tspan></text>
+    <text
+       id="use6771"
+       y="1973.9949"
+       x="2603.9795"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="2603.9795"
+         id="tspan6955">66</tspan></text>
+    <text
+       id="use6773"
+       y="714.32867"
+       x="2892.2131"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="2892.2131"
+         id="tspan6951">7</tspan></text>
+    <text
+       id="use6775"
+       y="963.72961"
+       x="2861.1887"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="2861.1887"
+         id="tspan6947">19</tspan></text>
+    <text
+       id="use6777"
+       y="1228.4629"
+       x="2876.9419"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="2876.9419"
+         id="tspan6943">31</tspan></text>
+    <text
+       id="use6779"
+       y="1474.5284"
+       x="2866.5076"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="2866.5076"
+         id="tspan6939">43</tspan></text>
+    <text
+       id="use6781"
+       y="1730.594"
+       x="2864.8276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="2864.8276"
+         id="tspan6935">55</tspan></text>
+    <text
+       id="use6783"
+       y="1973.9949"
+       x="2856.8958"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="2856.8958"
+         id="tspan6931">67</tspan></text>
+    <text
+       id="use6785"
+       y="714.32867"
+       x="3148.9084"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="3148.9084"
+         id="tspan6927">8</tspan></text>
+    <text
+       id="use6787"
+       y="963.72961"
+       x="3116.158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="3116.158"
+         id="tspan6923">20</tspan></text>
+    <text
+       id="use6789"
+       y="1228.4629"
+       x="3118.4314"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="3118.4314"
+         id="tspan6919">32</tspan></text>
+    <text
+       id="use6791"
+       y="1474.5284"
+       x="3116.2515"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="3116.2515"
+         id="tspan6915">44</tspan></text>
+    <text
+       id="use6793"
+       y="1730.594"
+       x="3115.9712"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="3115.9712"
+         id="tspan6911">56</tspan></text>
+    <text
+       id="use6795"
+       y="1973.9949"
+       x="3107.9458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="3107.9458"
+         id="tspan6907">68</tspan></text>
+    <text
+       id="use6797"
+       y="714.32867"
+       x="3407.0037"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="3407.0037"
+         id="tspan6903">9</tspan></text>
+    <text
+       id="use6799"
+       y="963.72961"
+       x="3382.4185"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="3382.4185"
+         id="tspan6899">21</tspan></text>
+    <text
+       id="use6801"
+       y="1228.4629"
+       x="3371.3054"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="3371.3054"
+         id="tspan6895">33</tspan></text>
+    <text
+       id="use6803"
+       y="1474.5284"
+       x="3371.9675"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="3371.9675"
+         id="tspan6891">45</tspan></text>
+    <text
+       id="use6805"
+       y="1730.594"
+       x="3370.2874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="3370.2874"
+         id="tspan6887">57</tspan></text>
+    <text
+       id="use6807"
+       y="1973.9949"
+       x="3360.489"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="3360.489"
+         id="tspan6883">69</tspan></text>
+    <text
+       id="use6809"
+       y="714.32867"
+       x="3606.1743"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="3606.1743"
+         id="tspan6879">10</tspan></text>
+    <text
+       id="use6811"
+       y="963.72961"
+       x="3623.8572"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="3623.8572"
+         id="tspan6875">22</tspan></text>
+    <text
+       id="use6813"
+       y="1228.4629"
+       x="3621.0066"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="3621.0066"
+         id="tspan6871">34</tspan></text>
+    <text
+       id="use6815"
+       y="1474.5284"
+       x="3622.7373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="3622.7373"
+         id="tspan6867">46</tspan></text>
+    <text
+       id="use6817"
+       y="1730.594"
+       x="3622.7371"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="3622.7371"
+         id="tspan6863">58</tspan></text>
+    <text
+       id="use6819"
+       y="1973.9949"
+       x="3611.3528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="3611.3528"
+         id="tspan6859">70</tspan></text>
+    <text
+       id="use6821"
+       y="714.32867"
+       x="3876.6802"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="714.32867"
+         x="3876.6802"
+         id="tspan6855">11</tspan></text>
+    <text
+       id="use6823"
+       y="963.72961"
+       x="3876.6802"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="963.72961"
+         x="3876.6802"
+         id="tspan6851">23</tspan></text>
+    <text
+       id="use6825"
+       y="1228.4629"
+       x="3876.6802"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1228.4629"
+         x="3876.6802"
+         id="tspan6847">35</tspan></text>
+    <text
+       id="use6827"
+       y="1474.5284"
+       x="3876.6802"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1474.5284"
+         x="3876.6802"
+         id="tspan6843">47</tspan></text>
+    <text
+       id="use6829"
+       y="1730.594"
+       x="3876.6799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1730.594"
+         x="3876.6799"
+         id="tspan6839">59</tspan></text>
+    <text
+       id="use6831"
+       y="1973.9949"
+       x="3876.6799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.63145447px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1973.9949"
+         x="3876.6799"
+         id="tspan6835">71</tspan></text>
+  </g>
+</svg>
