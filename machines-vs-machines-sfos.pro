@@ -11,6 +11,7 @@
 
 # The name of your application
 TARGET = harbour-machines-vs-machines-sfos
+TARGET_DATA_DIR = /usr/share/$${TARGET}
 
 CONFIG += sailfishapp C++11
 
@@ -55,11 +56,21 @@ OTHER_FILES += rpm/machines-vs-machines-sfos.changes.in \
     qml/graphics/* \
     data/lpbuild/*
 
-copydata.commands = $(COPY_DIR) $$PWD/data/lpbuild /home/deploy/installroot/usr/share/harbour-machines-vs-machines-sfos/data/
-target.depends = $(target) copydata
-export(first.depends)
-export(copydata.commands)
-QMAKE_EXTRA_TARGETS += target copydata
+# Data
+
+TARGET_DATA = data
+OTHER_FILES += $${TARGET_DATA}
+
+data.files = $${TARGET_DATA}/lpbuild/*
+data.path = $${TARGET_DATA_DIR}/data
+INSTALLS += data
+
+#copydata.commands = $(COPY_DIR) $$PWD/data/lpbuild /home/deploy/installroot/usr/share/harbour-machines-vs-machines-sfos/data/
+#target.depends = $(target) copydata
+#export(first.depends)
+#export(copydata.commands)
+
+QMAKE_EXTRA_TARGETS += target # copydata
 
 SAILFISHAPP_ICONS = 86x86 108x108 128x128 256x256
 
