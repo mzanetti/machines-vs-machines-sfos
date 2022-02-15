@@ -14,10 +14,10 @@ Name:       harbour-machines-vs-machines-sfos
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Machines vs. Machines
 Version:    1.3.2
-Release:    1
+Release:    2
 Group:      Qt/Qt
-License:    LICENSE
-URL:        https://launchpad.net/machines-vs-machines
+License:    GPLv3
+URL:        https://github.com/mzanetti/machines-vs-machines-sfos
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  machines-vs-machines-sfos.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
@@ -42,11 +42,12 @@ PackagerName: Mark Washeim (poetaster)
 DeveloperName: Michael Zanetti
 Custom:
  - Repo: https://github.com/poetaster/machines-vs-machines-sfos
-Icon: https://raw.githubusercontent.com/poetaster//machines-vs-machines-sfos/master/icons/172x172/harbour-tidings.png
+Icon: https://raw.githubusercontent.com/poetaster//machines-vs-machines-sfos/master/icons/128x128/harbour-tidings.png
 Screenshots:
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-2.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-4.png
 Url:
   Donation: hkttps://www.paypal.me/poetasterFOSS
 %endif
