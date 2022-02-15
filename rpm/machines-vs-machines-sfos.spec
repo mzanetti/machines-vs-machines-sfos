@@ -26,10 +26,30 @@ BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
+%if "%{?vendor}" == "chum"
+BuildRequires:  qt5-qttools-linguist
+%endif
 
 %description
-Short description of my Sailfish OS Application
+A Game of Machine VS Machine
 
+%if "%{?vendor}" == "chum"
+PackageName: Machines vs. Machines
+Type: desktop-application
+Categories:
+ - Game
+PackagerName: Mark Washeim (poetaster)
+DeveloperName: Michael Zanetti
+Custom:
+ - Repo: https://github.com/poetaster/machines-vs-machines-sfos
+Icon: https://raw.githubusercontent.com/poetaster//machines-vs-machines-sfos/master/icons/172x172/harbour-tidings.png
+Screenshots:
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-2.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
+Url:
+  Donation: hkttps://www.paypal.me/poetasterFOSS
+%endif
 
 %prep
 %setup -q -n %{name}-%{version}

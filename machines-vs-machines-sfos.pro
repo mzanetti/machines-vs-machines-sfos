@@ -49,8 +49,6 @@ HEADERS += src/tower.h \
 
 
 OTHER_FILES += rpm/machines-vs-machines-sfos.changes.in \
-    rpm/machines-vs-machines-sfos.spec \
-    rpm/machines-vs-machines-sfos.yaml \
     translations/*.ts \
     harbour-machines-vs-machines-sfos.desktop \
     qml/graphics/* \
