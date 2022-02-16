@@ -40,15 +40,18 @@ Categories:
 PackagerName: Mark Washeim (poetaster)
 DeveloperName: Michael Zanetti
 Custom:
- - Repo: https://github.com/poetaster/machines-vs-machines-sfos
-Icon: https://raw.githubusercontent.com/poetaster//machines-vs-machines-sfos/master/icons/128x128/harbour-tidings.png
+ - Repo: https://github.com/mzanetti/machines-vs-machines-sfos
+ - PackagingRepo: https://github.com/poetaster/machines-vs-machines-sfos
+Icon: https://github.com/poetaster/machines-vs-machines-sfos/raw/master/icons/256x256/harbour-machines-vs-machines-sfos.png
 Screenshots:
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-2.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-4.png
 Url:
-  Donation: hkttps://www.paypal.me/poetasterFOSS
+ - Help: https://github.com/poetaster/machines-vs-machines-sfos/discussions
+ - Bugtracker: https://github.com/poetaster/machines-vs-machines-sfos/issues
+ - Donation: https://www.paypal.me/poetasterFOSS
 %endif
 
 %prep
