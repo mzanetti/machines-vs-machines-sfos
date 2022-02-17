@@ -38,8 +38,8 @@ Categories:
 PackagerName: Mark Washeim (poetaster)
 DeveloperName: Michael Zanetti
 Custom:
- - PackagingRepo: https://github.com/poetaster/machines-vs-machines-sfos
  - Repo: https://github.com/mzanetti/machines-vs-machines-sfos
+ - PackagingRepo: https://github.com/poetaster/machines-vs-machines-sfos
 Icon: https://github.com/mzanetti/machines-vs-machines-sfos/raw/master/icons/256x256/harbour-machines-vs-machines-sfos.png
 Screenshots:
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
