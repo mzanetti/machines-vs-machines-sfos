@@ -70,7 +70,7 @@ INSTALLS += data
 
 QMAKE_EXTRA_TARGETS += target # copydata
 
-SAILFISHAPP_ICONS = 86x86 108x108 128x128 256x256
+SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 256x256
 
 # to disable building translations every time, comment out the
 # following CONFIG line
