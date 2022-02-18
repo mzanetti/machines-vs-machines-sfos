@@ -13,23 +13,44 @@ Name:       harbour-machines-vs-machines-sfos
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Machines vs. Machines
-Version:    1.3.2
+Version:    1.3.3
 Release:    1
 Group:      Qt/Qt
-License:    LICENSE
-URL:        https://launchpad.net/machines-vs-machines
+License:    GPLv3
+URL:        https://github.com/mzanetti/machines-vs-machines-sfos
 Source0:    %{name}-%{version}.tar.bz2
-Source100:  machines-vs-machines-sfos.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
 BuildRequires:  pkgconfig(Qt5Core)
 BuildRequires:  pkgconfig(Qt5Qml)
 BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
+BuildRequires:  qt5-qttools-linguist
 
 %description
-Short description of my Sailfish OS Application
+A Game of Machine VS Machine forked from https://github.com/mzanetti/machines-vs-machines-sfos
 
+%if "%{?vendor}" == "chum"
+PackageName: Machines vs. Machines
+Type: desktop-application
+Categories:
+ - Game
+PackagerName: Mark Washeim (poetaster)
+DeveloperName: Michael Zanetti
+Custom:
+ - Repo: https://github.com/mzanetti/machines-vs-machines-sfos
+ - PackagingRepo: https://github.com/poetaster/machines-vs-machines-sfos
+Icon: https://github.com/mzanetti/machines-vs-machines-sfos/raw/master/icons/256x256/harbour-machines-vs-machines-sfos.png
+Screenshots:
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-2.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
+ - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-4.png
+Url:
+ - Help: https://github.com/poetaster/machines-vs-machines-sfos/discussions
+ - Bugtracker:https://github.com/mzanetti/machines-vs-machines-sfos/issues
+ - Donation: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=USWAUUU2MD9Z4
+%endif
 
 %prep
 %setup -q -n %{name}-%{version}

@@ -11,6 +11,7 @@
 
 # The name of your application
 TARGET = harbour-machines-vs-machines-sfos
+TARGET_DATA_DIR = /usr/share/$${TARGET}
 
 CONFIG += sailfishapp C++11
 
@@ -48,20 +49,28 @@ HEADERS += src/tower.h \
 
 
 OTHER_FILES += rpm/machines-vs-machines-sfos.changes.in \
-    rpm/machines-vs-machines-sfos.spec \
-    rpm/machines-vs-machines-sfos.yaml \
     translations/*.ts \
     harbour-machines-vs-machines-sfos.desktop \
     qml/graphics/* \
     data/lpbuild/*
 
-copydata.commands = $(COPY_DIR) $$PWD/data/lpbuild /home/deploy/installroot/usr/share/harbour-machines-vs-machines-sfos/data/
-target.depends = $(target) copydata
-export(first.depends)
-export(copydata.commands)
-QMAKE_EXTRA_TARGETS += target copydata
+# Data
 
-SAILFISHAPP_ICONS = 86x86 108x108 128x128 256x256
+TARGET_DATA = data
+OTHER_FILES += $${TARGET_DATA}
+
+data.files = $${TARGET_DATA}/lpbuild/*
+data.path = $${TARGET_DATA_DIR}/data
+INSTALLS += data
+
+#copydata.commands = $(COPY_DIR) $$PWD/data/lpbuild /home/deploy/installroot/usr/share/harbour-machines-vs-machines-sfos/data/
+#target.depends = $(target) copydata
+#export(first.depends)
+#export(copydata.commands)
+
+QMAKE_EXTRA_TARGETS += target # copydata
+
+SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 256x256
 
 # to disable building translations every time, comment out the
 # following CONFIG line
@@ -72,3 +81,6 @@ CONFIG += sailfishapp_i18n
 # following TRANSLATIONS line. And also do not forget to
 # modify the localized app name in the the .desktop file.
 TRANSLATIONS += translations/machines-vs-machines-sfos-de.ts
+
+DISTFILES += \
+    rpm/machines-vs-machines-sfos.spec

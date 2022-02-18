@@ -232,8 +232,10 @@ Item {
         var properties = new Object();
         properties.image = engine.dataDir + tower.shotImage;
         properties.baseSize = tower.imageBaseSize;
-        properties.startX = towerDelegate.mapToItem(root).x
-        properties.startY = towerDelegate.mapToItem(root).y
+        properties.startX = towerDelegate.mapToItem(root, 0, 0).x
+        properties.startY = towerDelegate.mapToItem(root, 0, 0).y
+        //properties.startX = towerDelegate.mapToItem(root).x
+        //properties.startY = towerDelegate.mapToItem(root).y
         properties.startPoint = tower.shotCenter
         properties.startDistance = tower.shotStartDistance
         properties.duration = tower.shotDuration
