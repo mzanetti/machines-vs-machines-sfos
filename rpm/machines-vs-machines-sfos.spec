@@ -46,6 +46,7 @@ Screenshots:
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-4.png
 Url:
+  HomePage: https://github.com/mzanetti/machines-vs-machines-sfos
   Donation: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=USWAUUU2MD9Z4
 %endif
 
