@@ -17,7 +17,7 @@ Version:    1.3.4
 Release:    1
 Group:      Qt/Qt
 License:    GPLv3
-URL:        https://github.com/poetaster/machines-vs-machines-sfos
+URL:        https://github.com/mzanetti/machines-vs-machines-sfos
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(sailfishapp) >= 1.0.2
