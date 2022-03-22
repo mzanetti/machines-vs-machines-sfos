@@ -13,4 +13,4 @@ Name=Machines vs Machines
 [X-Sailjail]
 OrganizationName=de.poetaster
 ApplicationName=harbour-machines-vs-machines-sfos
-Permissions=UserDirs;RemovableMedia
+Permissions=UserDirs;RemovableMedia;Audio
