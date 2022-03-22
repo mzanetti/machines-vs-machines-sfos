@@ -13,7 +13,7 @@ Name:       harbour-machines-vs-machines-sfos
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Machines vs. Machines
-Version:    1.3.4
+Version:    1.3.5
 Release:    1
 Group:      Qt/Qt
 License:    GPLv3
