@@ -11,6 +11,6 @@ Name=Machines vs Machines
 # a different app name in German locale (de).
 #Name[de]=machines-vs-machines-sfos
 [X-Sailjail]
-OrganizationName=de.poetaster
+OrganizationName=com.github.mzanetti
 ApplicationName=harbour-machines-vs-machines-sfos
 Permissions=UserDirs;RemovableMedia;Audio

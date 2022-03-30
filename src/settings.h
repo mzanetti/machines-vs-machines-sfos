@@ -4,7 +4,7 @@
 #include <QObject>
 #include <QSettings>
 
-#define SETTINGS(group) QSettings settings("harbour-machines-vs-machines-sfos", "harbour-machines-vs-machines-sfos"); settings.beginGroup(group)
+#define SETTINGS(group) QSettings settings("com.github.mzanetti/harbour-machines-vs-machines-sfos/harbour-machines-vs-machines-sfos"); settings.beginGroup(group)
 
 class QSettings;
 
