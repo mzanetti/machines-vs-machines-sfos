@@ -108,11 +108,6 @@ int main(int argc, char *argv[])
     app->setApplicationName("harbour-machines-vs-machines-sfos");
     app->setOrganizationDomain("com.github.mzanetti");
     app->setOrganizationName("com.github.mzanetti");
-/*
-    QString newConfigDir = QStandardPaths::writableLocation(QStandardPaths::AppConfigLocation);
-    QString configFile = QCoreApplication::applicationName() + ".conf";
-    QSettings global(newConfigDir + "/" + configFile, QSettings::IniFormat);
-*/
     qmlRegisterSingletonType<Settings>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "SettingsBackend", createSettings);
 
     QScopedPointer<QQuickView> view(SailfishApp::createView());
