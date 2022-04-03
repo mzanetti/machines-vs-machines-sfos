@@ -13,7 +13,7 @@ Name:       harbour-machines-vs-machines-sfos
 %{!?qtc_make:%define qtc_make make}
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Machines vs. Machines
-Version:    1.3.3
+Version:    1.3.6
 Release:    1
 Group:      Qt/Qt
 License:    GPLv3
@@ -38,18 +38,16 @@ Categories:
 PackagerName: Mark Washeim (poetaster)
 DeveloperName: Michael Zanetti
 Custom:
- - Repo: https://github.com/mzanetti/machines-vs-machines-sfos
- - PackagingRepo: https://github.com/poetaster/machines-vs-machines-sfos
-Icon: https://github.com/mzanetti/machines-vs-machines-sfos/raw/master/icons/256x256/harbour-machines-vs-machines-sfos.png
+  Repo: https://github.com/poetaster/machines-vs-machines-sfos
+Icon: https://github.com/poetaster/machines-vs-machines-sfos/raw/master/icons/256x256/harbour-machines-vs-machines-sfos.png
 Screenshots:
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-1.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-2.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-3.png
  - https://raw.githubusercontent.com/poetaster/machines-vs-machines-sfos/master/screen-4.png
 Url:
- - Help: https://github.com/poetaster/machines-vs-machines-sfos/discussions
- - Bugtracker:https://github.com/mzanetti/machines-vs-machines-sfos/issues
- - Donation: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=USWAUUU2MD9Z4
+  HomePage: https://github.com/mzanetti/machines-vs-machines-sfos
+  Donation: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=USWAUUU2MD9Z4
 %endif
 
 %prep

@@ -3,7 +3,7 @@
 #include <QSettings>
 #include <QDebug>
 
-Settings::Settings(QObject *parent):
+Settings::Settings( QObject *parent):
     QObject(parent)
 {
 }

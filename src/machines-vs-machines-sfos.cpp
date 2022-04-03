@@ -32,6 +32,12 @@
 #include <QtQuick>
 #endif
 
+#include <QGuiApplication>
+#include <QLocale>
+#include <QScopedPointer>
+#include <QStandardPaths>
+#include <QQuickView>
+
 #include <sailfishapp.h>
 
 #include "engine.h"
@@ -49,7 +55,22 @@
 
 QObject* createSettings(QQmlEngine *engine, QJSEngine *jsEngine)
 {
+
     return new Settings();
+}
+
+void migrateSettings()
+{
+QDir dir(QStandardPaths::writableLocation(QStandardPaths::ConfigLocation));
+    if (dir.exists("harbour-machines-vs-machines-sfos"))
+    {
+        dir.mkpath("com.github.mzanetti/harbour-machines-vs-machines-sfos");
+        if (dir.exists("harbour-machines-vs-machines-sfos/harbour-machines-vs-machines-sfos.conf"))
+        {
+            dir.rename("harbour-machines-vs-machines-sfos/harbour-machines-vs-machines-sfos.conf", "com.github.mzanetti/harbour-machines-vs-machines-sfos/harbour-machines-vs-machines-sfos.conf");
+        }
+        dir.rename("harbour-machines-vs-machines-sfos", "com.github.mzanetti/harbour-machines-vs-machines-sfos/old");
+    }
 }
 
 int main(int argc, char *argv[])
@@ -62,6 +83,7 @@ int main(int argc, char *argv[])
     //   - SailfishApp::pathTo(QString) to get a QUrl to a resource file
     //
     // To display the view, call "show()" (will show fullscreen on device).
+    migrateSettings();
 
     qmlRegisterType<Engine>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "Engine");
     qmlRegisterUncreatableType<LevelPacks>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "LevelPacks", "Can't create this in QML. Get it from Engine.");
@@ -76,7 +98,24 @@ int main(int argc, char *argv[])
     qmlRegisterType<TowerProxyModel>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "TowerProxyModel");
     qmlRegisterType<BoardProxyModel>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "BoardProxyModel");
 
+    //qmlRegisterSingletonType<Settings>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "SettingsBackend", createSettings);
+
+    //return SailfishApp::main(argc, argv);
+
+
+    QScopedPointer<QGuiApplication> app(SailfishApp::application(argc, argv));
+
+    app->setApplicationName("harbour-machines-vs-machines-sfos");
+    app->setOrganizationDomain("com.github.mzanetti");
+    app->setOrganizationName("com.github.mzanetti");
     qmlRegisterSingletonType<Settings>("harbour.machines.vs.machines.sfos.Machines", 1, 0, "SettingsBackend", createSettings);
 
-    return SailfishApp::main(argc, argv);
+    QScopedPointer<QQuickView> view(SailfishApp::createView());
+
+    view->setSource(SailfishApp::pathTo("qml/harbour-machines-vs-machines-sfos.qml"));
+    view->setTitle("Machines vs. Machines");
+    view->showFullScreen();
+
+    return app->exec();
+
 }
